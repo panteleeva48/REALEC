@@ -1,0 +1,721 @@
+Parsing file: IELTS2015/AStepanova_21_1.txt
+The table provides data concerning underground railway system of six cities .
+The description of each includes information about the date it was opened , how log is its rowte and kilometers and , also , how often people use it during a period of a year .
+The last one is given as passengers per year and it is counted in millions of people .
+From the table we see that , out of six cities , London was the first to have its own underground railway system .
+It was opened in 1863 and now it is also the one with the longest route , which counts up to 394 kilometers of tracks .
+However , it 's passenger density is not the biggest and it is less than half of the same parameter of Tokyo , where the number of passengers per year reaches 1927 millions .
+This is despite the fact , that there length of route sums up to only 155 kilometers .
+The city of Koyoto seems to be an outsider it this comparison , as it has only 11 kilometers of tracks and , on average , no more than 45 million passengers of this means of transport between European countries and United States of America .Parsing file: IELTS2015/AStepanova_21_2.txt
+Studies conducted recently show that individual qualities , which we were born with , play a major role in our life can not affect it a lot .
+The idea is that our developement depends much more on own inilide characteristics than on own life experience .
+This thought was also a basis for some of Zigmund Fried 's ideas , such as a statement that a human is a wolf for another human .
+He also argued that humans are aggressive species and that villence is a predetorminer part of our nature .
+Parallel can be drown between the research recent and the thought of the philosopher .
+I do indeed belive that the qualities we were born with affect own personality , however process of development must be based on the thongs we encounter during own life .
+I sleek to the opinion of Jean-Paul Surtre and this ideas about existenuanneleum , which are absolutely opposite to the ones , introduced by Zigmund Freid .
+This french philosopher made up theory , according to wich people 's characters are made by the society , They were brought up in .
+In his ideas , there is no obstade for people to change their individual ever when they are out of their teenage years .
+To me this seems more understandable , as there can be really some life-changing experience encountered and this can happen of any stage of life .
+As it seems to me , both factors infnenu who we got to become , because everyone in diffenr , even if the persons , which we coupou happened to up , children , who are pretty similar in their personalities may grow up completely different people , because of what they may encounter .Parsing file: IELTS2015/AStepanova_34_1.txt
+This table shows the information about subway systems in six different cities .
+Overall , London Underground railway system is the oldest and longest one while the system of Koyoto city is the shortest and the most unpopular to use .
+It is notable to see that the majority of these underground railway system opened in a previous century except the subway systems in London ( XIX century ) and Los Angeles ( XXI century ) .
+The length of these systems in Paris , Tokyo and Washington DC fluctuates from 100 to 200 kilometres while the longest route is situated in London ( 394 kilometres ) .
+However , the system of Koyoto and Los Angeles are really short .
+Moreover , the underground railway system of Tokyo is the busiest one because 1927 million of passengers visit it every year .
+The metro in Paris has a high rate of passengers per year too .
+On the contrary , Koyoto and Los Angeles subway systems are modern and not so popular to use : 45 and 50 million of passengers each year .Parsing file: IELTS2015/AStepanova_34_2.txt
+The qualities of character which we have from the beginning of our life are sometimes considered to be the most important ones .
+However , some people think that skills that we get through our existence have a stronger influence on our behaviour .
+Personally , I believe that out life is changing day by day under the influence of new experiences .
+For instance , we can not only learn something unknown but also understand what mistakes we made in our past life .
+Moreover , some special features of our character appear exactly when we gain new knowledge and have completely different experience .
+These characteristics can be connected to the previous ones which we show in the first years of life after our birth but their whole inner content will be another .
+On the other hand , some researchers provides us information that the personality of each man depends on those qualities of the character we are born with .
+Firstly , they are sure that process of personal development is controlled by those characteristics and they give us our special way of behaviour .
+As a consecuence , all of our new experiences are influenced by those striking features from the very beginning .
+Secondly , these people believe that fact that our mind consists not only from the physiology things from the moment of out birth but also some mental and cognitive activity .
+All things considered , we can deny that our personality depends on all types of characteristics : both we are born with and we get through having the new experience and gaining knowledge .
+In my opinion , there is no doubt that the second ones have a stronger influence on out daily life and self-development because every person is changeable and has a tendency to improve himself .Parsing file: IELTS2015/EEmelyanova_14_1.txt
+The given graph depicts the changes in the percentages of the people aged 65 and over in the time period between 1940 and 2040 in three countries .
+The first visible trend can be found if we compare the growth dynamics of elderly population in Sweden and USA .
+In 1940 the percentage of these people in USA was close to 10 % while in Sweden it was about 7 % .
+From then on the figures of these countries grew steadily until 1995 .
+In that year the percentage of population aged aged 65 and over rocketed in Sweden hitting the maximum point of 20 % while the same trend stayed in USA .
+It is predicted that their percentages will narrow in the 2020 's but the USA will not be able to keep up with Sweden .
+Up until the early 2000 's the percentage of elderly people in Japan was fluctuating , falling to the lowest point between 1960 and 1980 .
+But then it grew steadily and it is highly possible that it will rise sharply up to more than 25 % in 2040 .
+Overall it is clear that while Sweden and USA share the same trend features , Japan , after the years of low percentage rates , will catch up on other countries .Parsing file: IELTS2015/EEmelyanova_14_2.txt
+With the rise of the popularity of the higher education and the realisation of the number of job opportunities it offers to young people the question of gender division has come to the minds .
+It is necessary to provide the students of both sexes with an equal amount of places on each faculty , or can some certain gender traits have an impact on that proportion ?
+In my opinion it is important that the universities provide both male and female students with an equal access to the exams and faculty places .
+It is clear that nowadays women have become more confident and are not afraid to participate in the competitions with their male counterparts .
+Right after the 19th century feminist movement women acquired many rights firstly reserved specifically for men , including the right to study .
+If a woman can study in the chosen field she can make a good career for herself applying her knowledge appropriately .
+Also the division of subjects on `` male '' and `` female '' ones is quite ridiculous as it does n't consider the talents of each given individual .
+If a man wants to be a poet or a designer or a teacher it does n't that he will grow to be less masculine in the same fashion as the woman who chooses to study engineering or mathematics does n't lose her femininity .
+Everyone should be able to follow their dream and the faculty choice is the first step towards its relation .
+On the whole I argue that all the universities should decide weather to allow or not each given student to study in the certain subject judging not by their gender but by their knowledge and eagerness .Parsing file: IELTS2015/EEmelyanova_16_1.txt
+The graph represents the share of the elderly people in three countries : Japan , Sweden and USA over the period between 1940 and 2040 .
+In Japan , the proportion of elderly people is the lowest out of three countries and stays under 5 % up until the beginning of the 2000s .
+However , there is an upward trend since the end of the 1990s .
+In 2030 the procentage line goes up almost vertically and reaches the maximum of roughly 27 % by 2040 .
+The USA and Sweden rising trends are similar with insignificant differences until the end of the 1990s .
+The rate of the increase changes by approaching the new century .
+The USA figures grow slowly and steadily after 2020 with the `` plato '' period of 20 years before that .
+Sweden people aged 65 and over experience a sharper increase with dramatic fluctuations , joining the consequential rise after 2020 .
+The overall tendency is the increase of the number of the elderly people to the population of the country in general .
+In Sweden and USA the original proportion of the elderly people doubles , while the Japan figure rises in 5 times .Parsing file: IELTS2015/EEmelyanova_16_2.txt
+There is an opinion , that every subject in the university should be studied by an equal amount of males and females .
+However , I ca n't fully agree with this suggestion .
+Originating from feminist studies and the equality of human rights , the idea of splitting university courses in equal male and female parts seems absurd to me .
+The same rules and demands , imposed on university applications , regardless of the candidate gender , already become a garantee towards fair university choices .
+More than that , any university is highly interested in the most talented students , despite the student ; s gender .
+In case university admits the `` half and half '' proportion for the subjects , it may restrict some gifted applicants from either side .
+Next , there are subjects that considered to be traditionally feminine or masculine .
+For example , there is a clear feminine dominance in the sphere of children 's education : kindergardens and schools , whereas in the labour domains where physical force is required , the preference is given to men .
+Males and females are different physically and phycologically , thus they suit better for different occupations .
+Needless to say that males and females have different social roles as well .
+The university subjects requires corresponding climate and artificial division in halves wo n't serve to the best of the atmosphere .
+It 's much more interesting to study with people who are encouraged and curious about the subject than with ones that were taken the form the equal proportion .
+To sum up , I would like to say that history knows many examples of outstanding scientists of both genders .
+For the university , the prime concern should be on student 's motivation and eagerness to develop , the gender does n't matter .
+However , the equal conditions of entry and fair competition of candidates is of high importance .
+The university courses should form naturally , not artificially in order to provide best productivity .Parsing file: IELTS2015/KKolosova_9_1.txt
+The given pie charts provide the information on the percentage of differently aged people in Yemen and Italy for 2000 and the prediction of how this percentage will change in 2050 .
+First , let 's take a look at the ages of population of both countries in 2000 .
+Almost a half of Yemens population is taken over by the children from 0 to 14 years , while this age group in Italy covers only 14 % .
+The other half of Yemens population consists of 46 % of adults and only 4 % of elderly people .
+However , in Italy adults present the biggest part in population -- almost 62 % .
+And the elder part is not small too .
+Then , looking at 2050 pie charts for both countries , we can see that the elder population in Yemen will not increase much , while in Italy there will be almost twice more elders .
+The number of people aged 0-14 years in Yemen will considerably decrease , leaving place for adult population , which will grow up by 11 % .
+To sum up , we can clearly see that Yemen has tendency to have more young population , while Italy has more representatives of elder age groups .
+And in 50 years the ages of population of both countries will change consequently .Parsing file: IELTS2015/KKolosova_9_2.txt
+Public health has always been an urgent topic .
+Nowadays when peoples health is affected by different dangers , caused by the development of humanity , this topic is especially problematic .
+Scientists and politicians have quarelled about the best way to improve public health .
+Some people think that creating more sports facilities will help , while others do n't agree with it .
+In this essay I will discuss different opinions .
+As it was written earlier , some people suggest building more sports facilities .
+They state that more people will visit gyms and swimming pools if there will be more of those .
+For example , it will be more convenient for some people to go to the local gym than to travel to another side of the city and backwards .
+On the other hand , some people say that it is all about encouragement , not convenience and availability .
+They argue that people should be encouraged to visit sport centers and to watch over their health .
+If it will be so , governments will not have to spend money on extra sports facilities .
+Money will be spent on the improvement of healthcare and older sport facilities to make them suit the needs of people .
+As far as my opinion is concerned , the main target of any social state is to maintain proper level of health and welfare of it 's people .
+That 's why not only new sport facilities should be created , but new hospitals and medical centers .
+Then , to suit the number of these facilities , a lot of professional doctors and medical personnell should be `` grown up '' in the state 's universities .
+All these methods will help one state to provide sufficient healthcare for it 's people .
+All in all , public health , the level of which has lowered through previous decade , should be taken care of .
+If all the policies I have brought up in this essay will come true , the level of public health will increase and with it , nation 's welfare .Parsing file: IELTS2015/KKolosova_24_1.txt
+The chart shows the information about total minutes ( in billions ) of telephone calls in the United Kingdom from 1995-2002 divided into three categories : local and national/international fixed line and mobile calls .
+We can see from the chart that local calls are the most popular and mobile calls are less popular throughout the period , but the situation tend to change , as mobile calls , having relatively low numbers at the beginning of the period from 1995 to 2000 rapidly become much popular during 2000s .
+with almost 10 times more minutes of calls in 2002 than in 1995 .
+National and international calls have a steady increase in the number of call minutes throughout the period , paining about 2-5 billions a year .
+Local fixed line calls had a peak in 1999 , steadily rising until this year and starting to lose positions at almost the same rate after .
+In general , we can see an increase in total number of call minutes , and mobile calls have became significantly more popular in 2002 than in 1995 , while other types of calls have ether a relatively moderate increase , as national/international telephone calls , or maintaining almost the same number of minutes in 2002 as in 1995 ( local fixed line calls ) .Parsing file: IELTS2015/KKolosova_24_2.txt
+There are lots of discussions these days about high school programmes .
+People want to give their children the best possible education , so they are widely discussing the education standards , programmes and lows , but there is some thinking to be done about events and activities happening outside the class , for example , some people believe that one of compulsory parts of high school education should be a unpaid community service , which involves working for a charity , improving the neighbourhood and other .
+In my opinion , having such project as s part of high school education is a really good idea .
+Students will gain a lot of experience which will help them during their lives , an experience they would never receive in the classroom .
+They will have a chance to work and communicate with different people , not only gaining useful knowledge and experience , but also improving their socialization and communication skills .
+This programme would also be benefitable for the charities , which often do n't have enough people to achieve their goals , and for the whole community in general .
+There are also people who do n't want their children to participate in such programmes .
+Possible reasons for that include these : by the first , such activities may take a lot of time and concentration , thus reducing the quality of education as students will have less time to spend doing homework or revising the material .
+By the second , some families may be concerned about the fact the service is meant to be unpaid , not allowing students to gain some work experience and earn some money .
+In conclusion , the idea to have an unpaid community service as compulsory part of high school programmes seems really appealing to me , because not only students will benefit from these activities , but also the whole community and society .Parsing file: IELTS2015/MTsygunova_6_2.txt
+Salatkina Maria СПб 28.03.14 менеджмент 13-00 311 TASK 2 There is no rout that the main value in everybody 's life is heath .
+However , despite the accessment of heath insuarance and the development of science and medicine , public health is getting worse .
+Someones claim that it is necessary to rise the number of sport activities at schools and universities .
+Others argue that this way would not dramatically change the situation and there are other methods to solve the problem .
+On the one hand , sport exercises help people to keep feet and therefore to decline the ability of having health problems .
+If a person does not pay enough attention to sport , it can lead to obesity and heart diseases .
+Moreover , sport activities provide good heath and as a result people do not have to spent time on visiting doctors and wasting money on different expensive medicines .
+On the other hand , the problem with public health can not be solved only by increasing the number of sport facilities .
+The government should transform not education , but health insuarance system .
+Drinking alcohol and smoking should be forbidden not only among teenagers but also among their adults .
+The healthy lifestyle are required to become popular with the help of newspapers , television , the Internet and other mass media instruments .
+To draw a conclusion , I am convinced that both view are likely to take into a consideration .
+In my opinion , improving public health is impossible without strong governments ' action .
+More than that , everyone should be respovsible about his health and try to reduce work pressure and to find time on sport activities .Parsing file: IELTS2015/Polyanskaya_16_2.txt
+Nowadays some people are sure that men and women must be accepted by universities in equal proportions .
+On the other hand , some people claim that universities should not take such measures .
+I totally agree with latter for the following reasons .
+To begin with , it is wide known fact that males can succed in certain spheres of knoweledge whereas women -- in other .
+What is meant is that there is a kind of a tendency that men prefer mathematical studies such as engineering , computer science , some IT-branches , while women would rather choose , for instance , social science like sociology or politology ; foreign languages and literature .
+So , it would be wrong to force a man to study sociology if he feels that he might be more satisfied and successful studying math .
+Some might argue that both males and females become doctors , but I am convinced that , for example , the greatest surgeons are men .
+Another point for not establishing such laws is related to future professions of students and their position in social structure of our society .
+In some kinds of jobs employers are willing to employ only male , for instance , in IT-companies because , as far as it is believed , men are able to manage with analyzing big amount of information , they are more punctual and they could seldom be stressed .
+Turning to some female professions .
+It is worth noticing that women are more required in such sorts of jobs like nurcing care , teachers , sometimes writers .
+According to some stereotypes , women are more emotional , they find it easy to learn and teach .
+In order to avoid depression and , unemployment , males and females must have choice what job they want to do and then enter the university where no restrictions must be established .
+In conclusion , although there are some difficult situation when a person must study the subject they do not want to , I am sure that universities should not limit the number of different gender students because it could lead to huge problems and not balanced labour-market .Parsing file: IELTS2015/VKovalevskaya_2_2.txt
+One of the inevitable human rights is freedom of speech .
+Considering any form of art a way to speak about something hardly anyone can make any restrictions without breaking the essential human rights .
+Meanwhile I think it is necessary to give all the freedom to any artist , it still seems fair to me that piece of art can somehow hurt other people , so the government restrictions can be used only for protection but not for limiting one 's will to express himself .
+Due to the fact that contemporary art is developing and becoming more and more extraodinary , some people can say that the government should restrict such perfomance that can somehow hurt feeling of other people .
+The scandalous organisation `` Pussy Riot '' , which had punk pray in the cathedral , is still being discussed .
+All the people are divided into two fighting groups ; one is proclaiming that this perfomance is a form of modern art aimed to express the political protest , and another group is sure that the punk pray is nothing but only an attempt to hurt the feelings off religious people and descrinate the faith .
+However , freedom of people to express their own is a constitutionally proclaimed right of everyone so no one can be deprived of it .
+More to say , throughout the centuries all the artists ( musicians , painters , poets ) have struggled for their freedom to be heard .
+Therefore , it seems to me like it is not the government who can somehow restrict the artists ' freedom to express themselves .
+The only rules that can somehow be excercised must be created only by the common will of society , so these rules will become some moral orientiers for artists in order to make it more easy to distinguish where the expression of themselves can hurt anyone else .Parsing file: IELTS2015/VKovalevskaya_3_2.txt
+There is an opinion that creative people like artists , writers and so on should have the freedom to express their ideas in whichever way they may wish and governments should not barrier their activities .
+As for me , this point of view is absolutely wrong .
+First of all , if governments allow people who call themselves artists to express themselves in whichever may they like , that will provide an unstoppable chaos because than anyone just by proclaiming that he is an artist will have a liberty to do whatever he likes calling his actions an art .
+Furthermore , I believe that governments should provide order and order is only achieves by control .
+Governments which ca n't provide control may lose a respect of their citizens and , which is much worse , legitimacy .
+For example , last year one so called artist clipres his testicles to the ground at the Red square as an act of protest against Russian government .
+As for me , I doubt that this is an acceptable way of self-expression .
+There is an another argument : providing such freedom to artists conpredicts the basic principles of the democracy .
+According to the liberal position , no group should have preferences in their social rights , everybody must be equal , no mater who those people are : buisinessmen , labors or artists .
+If society gives preferences to some group they means that this group may avoid rules which influences freedom .
+In conclusion , I 'd live to state one more time that artists should not be out of restrictions on what they do because it is immoral and unfair to other social groups and also because this may put society in a dangerous situation .Parsing file: IELTS2015/VKovalevskaya_5_2.txt
+Some people argue that creative artists are given too much freedom nowadays , while others think that self-expression ca n't be limited with any kinds of rules .
+I suppose that artists should be able to create whatever they want .
+Nevertheless there have to be some restrictions related to showing it publicly .
+First of all , some artists do n't have any boundaries and a lot of people love their works .
+However , these pieces of art can be harmful for children , because they are very sensitive and they percept everything they see .
+That 's why it 's reasonable to prohibit children to watch some films , visit some exhibitions and listen to some pieces of music .
+Secondly , I have mentioned earlier that these restrictions should not be too serious .
+It means that artists should have their right to create anything they want .
+If a child gets access to prohibited pieces of art it 's not the fault of an artist .
+Also I believe that the grown-ups are able to decide themselves whether to read a book or not , whether to go to an exhibition or not .
+Even if they are shocked by the way an artist expresses himself they can deal with it .
+That 's why the adults should n't not be restricted from getting acquomted with this or that piece of art .
+The only limit has to be the dignity of other people .
+I think that it concerns some kinds of installations .
+All in all , it seems to me that people are free to express themselves .
+On the other hand , they need to remember that they are not the only ones who will see their creations .
+The restrictions are to focus on protection of children and dignity of other people and not on some political matters .
+These restrictions should not be similar to censorship .Parsing file: IELTS2015/VKovalevskaya_9_2.txt
+Nowadays the question of self-expression is being widely discussed , because of spreading the government restrictions on it in Russia .
+To my mind , there should not be official restrictions from our government , but there should be inner moral rules about what somebody can or can not do .
+Firstly , I have to say that nobody can stop our imagination creating different ideas , and government restrictions will not make us do it .
+They can only make some types of arts illegal , but it does not mean that these types of arts will die out .
+If government gives us freedom to express our ideas , there will be more orginized events and festivals .
+In this way government will show that it trusts it 's nation .
+But I should notice that some types of arts can not be shown to the children , because it may hurt their feelings or minds or be really unacceptable for this little age .
+I want to say that we should protect young consiousness from harmfull effect .
+Besides , I believe that expressing and watching are different things , that we can not combine in our discussion .
+I guess that everybody has a right to express what he thinks or feels , but everytime a person should remember that he can upset his relatives or friends .
+Everybody has different views on music , politics , art .
+We should be tollerant and respect an opposite point of view .
+To sum it all up I want to say that everybody has to dicide for himself if he can express something , which is inside of him , or can not .
+For me , it is more important to have inner restrictions than have useless government rules which try to control our modern art .Parsing file: IELTS2015/VKovalevskaya_12_2.txt
+They say creative people should be free to express their creativity in any way they want .
+In my personal opinion culture and art is certainly an inceporable peace of our everyday life .
+So those who create genuine art are [ ir ? ]
+tal for the soeciety to develope in the right direction .
+Though , creative artists are obviously should feel free to express themself in all ways of art like literature , cinema , painting etc. , they still should have some moral boundaries , not necessary provided by government .
+I do believe that everyone should know the difference between expressing themselves and total limitless egoism .
+Especially when those artist want the audience to see or to hear their masterpience .
+What I mean is art can not be associated with insulting others , making harm to others even if the Creator suppose it is how He sees the world .
+For example , a famous singer is writing a rude song about his enemy or a person he just dislikes .
+As soon as the people hear this song , they will have prejudices against this person without even knowing him/her .
+Moreover , sometimes so-called art can have some inappropriate content , it can be inappropriate for children , for instance .
+This is when the government can interfere and put some age restrictions .
+All in all , I understand that artist are free spirits , though I still stick to the idea that the genuine ( which is very important ) art and the rules of morality and tolerance should compromise in order to prevent chaos and misunderstanding .Parsing file: IELTS2015/VKovalevskaya_21_2.txt
+Creativity is the sphere , which might always be free from government and law restrictions in reason to be able to express artists ' own view on art .
+To what degree It is true ?
+From my point of view , the art is a personal and intimate phenomene .
+That is why creative artists should be free from limits and boundaries .
+The main argument in favor is that It represents art trends and tendendies of modern generation .
+This cause leads us to another reason .
+Freedom in art expression helps present art to create the history .
+There is no doubt , that government restrictions erode genuine creativity and make current art biased .
+On the other hand , some people believe , that power limitations will help to control expressions of modern art , because sometimes it is neccessary .
+There are a lot of examples , when products of some creative artist over-step the law .
+Moreover , some art expressions break the moral principles by propaganding non-ethic ( sometimes violent ) ideas .
+However , I tend to think , that such activity and its different , non-typical views seem to be only another , distinguished lifestyle , which does n't mean immoral expressions , but conceptual .
+In conclusion , I would like to stress , that creative artists will always exists , and different opinions on freedom of their expressions will also exist .
+However , It 's up to you to decide , what to think about it .Parsing file: IELTS2015/VKovalevskaya_24_2.txt
+Nowadays , there are many heated debates about whether government restrictions should exist and control what creative artists are allowed to do or whether we should give freedom to those artists to express in a way they want .
+Personally , I absolutely agree with the first point of view due to some reasons .
+First of all , to my mind , it is absolutely important to control every sphere of our life , if it is not under a certain amount of control , there would be a disaster .
+Consequently , by giving the freedom to creative artists to express themselves as they want will definitely lead to certain problems .
+For instance , it would be almost impossible to keep an eye on a censure , because some artists have got an extraordinary views on art .
+Secondly , many unofficial films , pictures etc. will appear .
+Hence , it would be veryhard to control this big flow of pirate movies , not officially recorded songs .
+Therefore , it will lead to more people who break the rules and the rate of crime will grow .
+On the other hand , many people may say that we have to think about the freedom of expression .
+While speaking about this theme .
+Although this opinion makes sense , little to these people realize how many disadvantages will appear when government restrictions are off .
+To reteirate my point of view , I do believe that everything in this world should be under the control of something whether it is government or parents , because without restrictions we will not be able to live a sedate life .Parsing file: IELTS2015/VKovalevskaya_29_2.txt
+Many years ago government could punish some creative people when their ideas did not support power 's way of managerment .
+Today artists have the freedom , but sometimes government can restrict their ideas .
+I am convinced that creative artists should not be restricted .
+In my opinion , politics and art do not have the same reasons .
+The function of government is regulation of social , economical and political relationships in society .
+Art is another world that gives up an opportunity to think and live as we wish in our fantasies .
+If creative persons forget their freedom to express their ideas , we will not see the new kinds and trends of art .
+Modern life is very dynamic , it changes very fast .
+Yes , we have many wonderful pictures of 18 century , we can listen to classical music and watch old films .
+But , despite of it , we need more genius compositions .
+We know that some of modern songs , films , cartoons and pictures have the signals of revolution .
+Power afraid of this trend , because modern art can influence the society more then government .
+Without any doubt , sometimes it can be useful .
+Power corrupts .
+Art is indicator of people 's opinion , and people can influence government .
+Freedom is a criteria of democracy .
+Democracy is the main idea of modern life , that is why today everybody can express his ideas the way he wants .
+But some people have an opposite viewpoint .
+They sure that modern painters and singers are very free , that is why their expression is ugly and can influence children and polite people bad way .
+I think that these people are afraid of changes in modern world .
+Art is long , life is short , that is why freedom should be the main criteria of modern art , because we need the new ways of expression .Parsing file: IELTS2015/VKovalevskaya_34_2.txt
+That wo n't be an exagerration to say that art is what makes our life brightful and fills it with beauty and emotions .
+It often touches upon social problems and a lot of people of art are sure that the main purpose of their activity is to reveal these problems and to draw public attention to them .
+They are eager to deliver their position and express themselves through art .
+However , they often face censorship .
+Even in the age of Ekaterina the Great it was forbidden to write about the issues those contradict the policy of the monarch .
+Ekaterina ordered to burn all the the book `` The travelling from St. Petersburg to Moscow '' , which depicted the poor life of the peasants .
+Censorship exanded in the Soviet Union , a lot of information was hidden from the citizens of our country .
+Even when the Chernobil accident happened not all the inhabitats of Pripyat were informed and evacuated , so it can lead to terrible consequences .
+These examples show that a freedom of speech and a freedom to express your ideas are of essential importance .
+I strongly believe that the government should avoid approving any bills that can restrict people say what they want .
+Any bill passed for the sake of creating phrames and bourders for journalists , artists , musicians does n't bring a benefit to the society .
+Evidently , these measures are aimed at contributing to the strength of the authorities only .
+The fact is that the restrictions have n't ever been objective .
+All the views should be expressed , everyone has a right to be heard , and the public is to decide wheather to agree with a person and his opinion or not ; not the government should make a decision .
+All things considered , I am sure that censorship brings disadvantages to the society only and all the possible views should be presented to the public .Parsing file: IELTS2015/ZEvdaeva_3_1.txt
+The charts provide information about travelling abroad by Englishmen and visits to the UK by foreigners from 1979 to 1999 as well as the most popular countries which UK residents went to in 1999 .
+Due to the charts , UK residents travelled to the other countries more than overseas residents visited UK .
+Moreover , there were two most visited countries by the English which were Spain and France .
+To look more precisely at the first chart , there was slight difference between numbers of UK travelers and foreign travelers in 1979 , which accounted approximately 13 millions and 10 millions respectively .
+This difference had increased substantially by 1999 , making up to 28 millions and 54 millions respectively .
+Due to the information about the most preferred countries by the English in 1999 , the most popular ones were France and Spain which are visited by 11 millions and 8 millions people .
+USA was the third most visited country ( roughly 4 million of people ) , while Greece and Turkey were the forth and fifth ones ( 3 millions and 2 millions respectively ) .
+Overall , the UK residents were more active travelers than foreigners in the UK in period between 1979 and 1999 .Parsing file: IELTS2015/ZEvdaeva_3_2.txt
+Nowadays behaviour of students is becoming a burning issue in several schools all over the world .
+School children neglect many school rules as well as miss a lot of classes .
+That is a tricky question why it happens and what can be done to improve this situation .
+There are several possible reasons for that problem .
+First of all , the main cause of bad behaviour is teenagers ` nature .
+Children in difficult age are always supposed to protest against rules they do not conform to .
+There is nothing to do in order to improve that type of nature , but some changes can be done .
+As far as I am concerned , the most important thing is to give teenage students to develop culturally by giving them more lessons on arts , culture and so on .
+At the same time , teachers should understand what is needed for young people and respect their wish to show individuality , to set up their own rules and so on .
+That type of teachers ` behaviour can lead to mutual understanding and improving situation .
+Secondly , one another reason for the problem of bad behaviour us that students are not involved in the process of education and not interested in getting new knowledge .
+That is a result of boring classes and the fact that children are not informed how they can use that knowledge .
+That is why students miss classes being sure they are unresourceful .
+The possible solution for it is to explain them why every course is important and what is the main purpose of it .
+For instance , as children understand the importance of knowing biology for future doctors , those who want to become a doctor learn it rarely .
+Moreover , teachers should make their lessons more interactive and capturing .
+These actions are to assure children not to miss classes and to encourage them to learn , which is likely to result in their behaviour .
+To sum up , I would like to add that some actions are able to be done to improve the situation of bad students ` behaviour even if causes are difficult and lie in the very nature of young people .Parsing file: IELTS2015/AAliutova_2_2.txt
+Due to the principles of the International law there could not be any discrimination .
+So , males and females have equal rights nowadays in all spheares of life .
+This rule also concerns educational process their all people have a right to have an education , besides , they are free to choose any subject they want .
+Moreover , is it appropriate for universities to accept males and females in every subject equaly ?
+First of all , if we speak of equality of men and women we should make a notice that this also mean that women could not do some work which is not suit them ( take heavy things ) .
+In other ways it is known that females can choose freely their profession .
+Secondly , we can easily think of jobs which will be more priority for males such as military professions .
+What is the goal of setting the rule when universities accept equal numbers of male and female students in every subject ?
+Will it really provide equality ?
+It is set by the laws that everyone has an opportunity to study the subject he prefers .
+This rule is enough for the realisation of the principle mentioned above .
+Another factor which may be set against that rule is a different propostion of population of males and females in the country .
+It would be hard to reach equal numbers because women simply can be more than men or overwise , so this argument makes that rule almost impossible .
+Of course universities may try to bistribute makes and females during educational process in different groups equaly and that probably will bring positive result .
+To sum up , everyone both males and females has a right and opportunity to choose their profession and study in a place they want .
+It will not be appropriate for university workers trying to choose students by the criteria of equality of males and females instead of professional qualities and knowledge , which may have every person .Parsing file: IELTS2015/AAliutova_13_1.txt
+The presented data shows us the percentage of people aged 65 and over in three different countries ( USA , Sweden and Japan ) in the second half of the 20th century and up to 2040 .
+But what factory make the figures so varied ?
+First of all , it is the average length of life .
+Japan is well-known for its long-living people , and that is why the proportion of them is expected to excud 25 % by 2040 .
+However , the economic situation has not always been so brilliant , moreover , it was much worse there then in Europe and America , so the number was relatively low until the expected acute rise in 2030 .
+Also , that is due to the fact that more children are born in Japan , and as a result , they take up some ` space ' in the generations division .
+Secondly , it is social policy that afects the quality of life .
+After the introduction of state insurance and pensions both in the USA and Sweden , more elderly people were able to afford suitable medical treatment , housing or other benefits .
+Another option is the decline in the number of children per family .
+More and more young people decline to start a family later anf have only 1 or 2 offsprings , and this tendency will certainly bring about the growth of the proportion of the elderly people , as those born in 1975 are 65 years old by 2040 .
+To draw a conclusion , we may say that not only social or economic tendencies , but also government policies might cause certain changes in social proportions , consequently , these policies and tendencies should be accurately governed .Parsing file: IELTS2015/AAliutova_13_2.txt
+The question of gender equality in all spheres of social life has become very hotly discussed in the resent decades .
+One of the most important factors that constitute a future professional ` profile ' of every individual is , of course , higher education .
+Providing society with strictly similar numbers of male and female graduates in each subject would certainly change the labour market as well as academic world .
+But will these changes be for the better - or for the worse ?
+The first point to fear in mind is that nowadays students are accepted on the basis of their performance during entrance examinations .
+That means : only previous qualifications and / or knowledge of each applicant is taken into consideration .
+Is it fair to give preferences to this or that young person because of their race , religion or gender ?
+No , this will mean discrimination , and that is the inevitable consequence of ` gender-based ' intake of students .
+Extremely alike reform has been carried out in Germany .
+The universities are obliged to hold different entrance lists for man and women with different entrance marks .
+As a result , it may be easier for a male to gain acceptance to a medical school ( with 1.3 entrance mark in comparison with female 1.1 ) .
+I do not think that is ` fairness ' in the proper sense of this word .
+The only aspiration of this reform I agree with is the feeling that certain fields of science or work are traditionally ` male ' or ` female ' .
+Although I do n't believe that ` maxing ' of sexes should be caused by such a radical method , I think that young girls and boys should be encouraged to take up any profession they are into , no matter if it is supposed to be men - or women-only occupation .Parsing file: IELTS2015/AAliutova_26_2.txt
+Today there is a great number of discussions about male/female relationships .
+One of them is should male and female students work together and even more - in equal numbers .
+Some people lelieve that it 's inappropriate , to make universities accept equal numbers of male/female students , others agree that it will improve current situation in education .
+There exist strong arguments of both sides of this disscussion , which implies that it is worth examining all points of view before reaching any conclusion .
+First of all , there is a necesity to say that one of the advantages of these type of accepting students is the equallity between men and women .
+Equall numbers mean equall opportunities for people , without discrimination sexes .
+Moreover , there is a plenty of scientist 's researchs convincing that working between male and female groups of people in equall proportions gives a much more favor .
+Also , this type of proportion helps members of each group interact with others easily , that when there is a disproportion .
+Another point of view is that such type of accepting students is useless and pointless .
+Supporters claim that such thing can destroy the real competition between students , which is based on knowledge , not on female / male you are or not .
+Another drawback of equall accepting numbers is that it can crushed all system of university 's academic freedom - government will give concrete numbers of students , who schould study in universities .
+And one of the most convincing arguments againts equall proportions between male/female students is that there is no any correlation or connection between knowledge and which sex do you have .
+And I am firmly believe in that .
+Since the Medievel times , people fight against discrimination , for modern society with equall rights for everybody .
+And for the first time , this meosure for accepting equall numbers of students seems like justice , lut it is not real suitable criteria for competition between students .
+There is no shame if men are good at law and women in teaching as there is no any discrimination between them in case of disproportion .
+Considering all arguments , it can be concluded that the idea of universities accepting equal number of male / female students is not good of all .Parsing file: IELTS2015/AAliutova_27_1.txt
+The graph provides data about the percentage of group of people 65 years old and over .
+It demonstrates a change of this proportion from 1940 to 2040 in Japan , Sweden and USA .
+It 's clear from the graph that in every compacative country the quantity of people 65 years old and over would increase from 5 % -10 % in 1940 to 25 % approximately in 2040 .
+However , the ways of growing are different .
+The percentage of population aged 65 and over in USA is guaducelly increasing during this 100 years like in Sweden .
+By contrast , Japan 's group of people 65 years old and over had been decreasing from 1940 to 1983 approximately , then it began to rise slightly and in 2030 there would be drammatic increase from 10 % to 25 % .
+In USA and Sweden there were periods of decline too - from 1980 to 1990 and from 1980 to 2014 respectively .
+Moreover , next period of decrease of population aged 65 and over is expected in USA in 2015 .
+As a result of change Japan will be the oldest country in 2040 , then Sweden and USA respectively .
+It means that Japan will be in risk of demography problems .Parsing file: IELTS2015/AAliutova_27_2.txt
+There is an opinion that universities should consist of equal parts of men and women , because society should give the same rights and possibilities for both sex .
+I ca n't agree with this opinion .
+Firstly , undulation should not depend on sex .
+The main criteria is personal abilities and way of thinking .
+If universities had accepted equal quantity of students in 16-19 centuries despite of their mental activity , modern society would never have industrial machines , planes and cues just because young scientist , who had innovating ideas , were not accepted university .
+Secondly , there are a lot of professions which require some physical or psychological features from warheas .
+It depends on character of work , its aims and audience .
+For example , it 's really difficult for men to work at women 's consultation centre because both doctor or client would be embarrassed .
+Besides , women would have problems working as machinery operator because sometimes , it 's necessary to repair huge machines quickly to prevent the catastroph .
+The majority of women just do not have such strong organism and muscles .
+Thirsty , such equality would negatively affect not only a person , who was not accepted by university , but also a person , who was .
+It would happen because student of university will be scere that employes would accept them equally like the university .
+However , such students do not pay attention for the fact that employers will take the smartest students .
+As a result of this equality students lose their ability for competition .
+All in all , university is `` a factory '' of knowledges , research and new inventions .
+We should not create barriers for ahibitious persons and accept persons , who does n't have interest in education , just because of sex equality .
+If it would happen , the development of science and society 's culture will stop .Parsing file: IELTS2015/AAliutova_30_1.txt
+The diagram presents a number of people after 65 years old in percentage from number of all people .
+The indicators are devided on 3 groups with countries : Japan , Sweden and USA , and shows changes in the 100 year period from 1940 to 2040 .
+The population aged 65 and over from Japan was only 5 percent in 1940 .
+Then there was slightly decrease for 20 years period and it was a constant next 20 years .
+After 1980 it become to increase slightly .
+According to graph this increase will be continued and in 2030 will go up dramatically to 25 percent .
+In Sweden the number of people in 1940 was about 7 percent .
+Between 1940 and 1980 this number was increasing .
+After that there was slight fall and than sharp rise .
+The same situation will be between 2010 and 2040 .
+The numbers will reach almost 25 percent .
+In the USA there were almost 10 percent aged people in 1940 .
+Between 1940 and 1980 it was a little more than in Sweden .
+After 1980 the indicators were stable and after 2020 will rise to 23 percent in 2040 .
+To sum up , it can be seen from the graph , the number of people aged 65 and over increase and will reach the number nearly 25 percent to 2040 in all countries .Parsing file: IELTS2015/AStepanova_21_1.txt
+The table provides data concerning underground railway system of six cities .
+The description of each includes information about the date it was opened , how log is its rowte and kilometers and , also , how often people use it during a period of a year .
+The last one is given as passengers per year and it is counted in millions of people .
+From the table we see that , out of six cities , London was the first to have its own underground railway system .
+It was opened in 1863 and now it is also the one with the longest route , which counts up to 394 kilometers of tracks .
+However , it 's passenger density is not the biggest and it is less than half of the same parameter of Tokyo , where the number of passengers per year reaches 1927 millions .
+This is despite the fact , that there length of route sums up to only 155 kilometers .
+The city of Koyoto seems to be an outsider it this comparison , as it has only 11 kilometers of tracks and , on average , no more than 45 million passengers of this means of transport between European countries and United States of America .Parsing file: IELTS2015/AStepanova_21_2.txt
+Studies conducted recently show that individual qualities , which we were born with , play a major role in our life can not affect it a lot .
+The idea is that our developement depends much more on own inilide characteristics than on own life experience .
+This thought was also a basis for some of Zigmund Fried 's ideas , such as a statement that a human is a wolf for another human .
+He also argued that humans are aggressive species and that villence is a predetorminer part of our nature .
+Parallel can be drown between the research recent and the thought of the philosopher .
+I do indeed belive that the qualities we were born with affect own personality , however process of development must be based on the thongs we encounter during own life .
+I sleek to the opinion of Jean-Paul Surtre and this ideas about existenuanneleum , which are absolutely opposite to the ones , introduced by Zigmund Freid .
+This french philosopher made up theory , according to wich people 's characters are made by the society , They were brought up in .
+In his ideas , there is no obstade for people to change their individual ever when they are out of their teenage years .
+To me this seems more understandable , as there can be really some life-changing experience encountered and this can happen of any stage of life .
+As it seems to me , both factors infnenu who we got to become , because everyone in diffenr , even if the persons , which we coupou happened to up , children , who are pretty similar in their personalities may grow up completely different people , because of what they may encounter .Parsing file: IELTS2015/AStepanova_34_1.txt
+This table shows the information about subway systems in six different cities .
+Overall , London Underground railway system is the oldest and longest one while the system of Koyoto city is the shortest and the most unpopular to use .
+It is notable to see that the majority of these underground railway system opened in a previous century except the subway systems in London ( XIX century ) and Los Angeles ( XXI century ) .
+The length of these systems in Paris , Tokyo and Washington DC fluctuates from 100 to 200 kilometres while the longest route is situated in London ( 394 kilometres ) .
+However , the system of Koyoto and Los Angeles are really short .
+Moreover , the underground railway system of Tokyo is the busiest one because 1927 million of passengers visit it every year .
+The metro in Paris has a high rate of passengers per year too .
+On the contrary , Koyoto and Los Angeles subway systems are modern and not so popular to use : 45 and 50 million of passengers each year .Parsing file: IELTS2015/AStepanova_34_2.txt
+The qualities of character which we have from the beginning of our life are sometimes considered to be the most important ones .
+However , some people think that skills that we get through our existence have a stronger influence on our behaviour .
+Personally , I believe that out life is changing day by day under the influence of new experiences .
+For instance , we can not only learn something unknown but also understand what mistakes we made in our past life .
+Moreover , some special features of our character appear exactly when we gain new knowledge and have completely different experience .
+These characteristics can be connected to the previous ones which we show in the first years of life after our birth but their whole inner content will be another .
+On the other hand , some researchers provides us information that the personality of each man depends on those qualities of the character we are born with .
+Firstly , they are sure that process of personal development is controlled by those characteristics and they give us our special way of behaviour .
+As a consecuence , all of our new experiences are influenced by those striking features from the very beginning .
+Secondly , these people believe that fact that our mind consists not only from the physiology things from the moment of out birth but also some mental and cognitive activity .
+All things considered , we can deny that our personality depends on all types of characteristics : both we are born with and we get through having the new experience and gaining knowledge .
+In my opinion , there is no doubt that the second ones have a stronger influence on out daily life and self-development because every person is changeable and has a tendency to improve himself .Parsing file: IELTS2015/EEmelyanova_14_1.txt
+The given graph depicts the changes in the percentages of the people aged 65 and over in the time period between 1940 and 2040 in three countries .
+The first visible trend can be found if we compare the growth dynamics of elderly population in Sweden and USA .
+In 1940 the percentage of these people in USA was close to 10 % while in Sweden it was about 7 % .
+From then on the figures of these countries grew steadily until 1995 .
+In that year the percentage of population aged aged 65 and over rocketed in Sweden hitting the maximum point of 20 % while the same trend stayed in USA .
+It is predicted that their percentages will narrow in the 2020 's but the USA will not be able to keep up with Sweden .
+Up until the early 2000 's the percentage of elderly people in Japan was fluctuating , falling to the lowest point between 1960 and 1980 .
+But then it grew steadily and it is highly possible that it will rise sharply up to more than 25 % in 2040 .
+Overall it is clear that while Sweden and USA share the same trend features , Japan , after the years of low percentage rates , will catch up on other countries .Parsing file: IELTS2015/EEmelyanova_14_2.txt
+With the rise of the popularity of the higher education and the realisation of the number of job opportunities it offers to young people the question of gender division has come to the minds .
+It is necessary to provide the students of both sexes with an equal amount of places on each faculty , or can some certain gender traits have an impact on that proportion ?
+In my opinion it is important that the universities provide both male and female students with an equal access to the exams and faculty places .
+It is clear that nowadays women have become more confident and are not afraid to participate in the competitions with their male counterparts .
+Right after the 19th century feminist movement women acquired many rights firstly reserved specifically for men , including the right to study .
+If a woman can study in the chosen field she can make a good career for herself applying her knowledge appropriately .
+Also the division of subjects on `` male '' and `` female '' ones is quite ridiculous as it does n't consider the talents of each given individual .
+If a man wants to be a poet or a designer or a teacher it does n't that he will grow to be less masculine in the same fashion as the woman who chooses to study engineering or mathematics does n't lose her femininity .
+Everyone should be able to follow their dream and the faculty choice is the first step towards its relation .
+On the whole I argue that all the universities should decide weather to allow or not each given student to study in the certain subject judging not by their gender but by their knowledge and eagerness .Parsing file: IELTS2015/EEmelyanova_16_1.txt
+The graph represents the share of the elderly people in three countries : Japan , Sweden and USA over the period between 1940 and 2040 .
+In Japan , the proportion of elderly people is the lowest out of three countries and stays under 5 % up until the beginning of the 2000s .
+However , there is an upward trend since the end of the 1990s .
+In 2030 the procentage line goes up almost vertically and reaches the maximum of roughly 27 % by 2040 .
+The USA and Sweden rising trends are similar with insignificant differences until the end of the 1990s .
+The rate of the increase changes by approaching the new century .
+The USA figures grow slowly and steadily after 2020 with the `` plato '' period of 20 years before that .
+Sweden people aged 65 and over experience a sharper increase with dramatic fluctuations , joining the consequential rise after 2020 .
+The overall tendency is the increase of the number of the elderly people to the population of the country in general .
+In Sweden and USA the original proportion of the elderly people doubles , while the Japan figure rises in 5 times .Parsing file: IELTS2015/EEmelyanova_16_2.txt
+There is an opinion , that every subject in the university should be studied by an equal amount of males and females .
+However , I ca n't fully agree with this suggestion .
+Originating from feminist studies and the equality of human rights , the idea of splitting university courses in equal male and female parts seems absurd to me .
+The same rules and demands , imposed on university applications , regardless of the candidate gender , already become a garantee towards fair university choices .
+More than that , any university is highly interested in the most talented students , despite the student ; s gender .
+In case university admits the `` half and half '' proportion for the subjects , it may restrict some gifted applicants from either side .
+Next , there are subjects that considered to be traditionally feminine or masculine .
+For example , there is a clear feminine dominance in the sphere of children 's education : kindergardens and schools , whereas in the labour domains where physical force is required , the preference is given to men .
+Males and females are different physically and phycologically , thus they suit better for different occupations .
+Needless to say that males and females have different social roles as well .
+The university subjects requires corresponding climate and artificial division in halves wo n't serve to the best of the atmosphere .
+It 's much more interesting to study with people who are encouraged and curious about the subject than with ones that were taken the form the equal proportion .
+To sum up , I would like to say that history knows many examples of outstanding scientists of both genders .
+For the university , the prime concern should be on student 's motivation and eagerness to develop , the gender does n't matter .
+However , the equal conditions of entry and fair competition of candidates is of high importance .
+The university courses should form naturally , not artificially in order to provide best productivity .Parsing file: IELTS2015/KKolosova_9_1.txt
+The given pie charts provide the information on the percentage of differently aged people in Yemen and Italy for 2000 and the prediction of how this percentage will change in 2050 .
+First , let 's take a look at the ages of population of both countries in 2000 .
+Almost a half of Yemens population is taken over by the children from 0 to 14 years , while this age group in Italy covers only 14 % .
+The other half of Yemens population consists of 46 % of adults and only 4 % of elderly people .
+However , in Italy adults present the biggest part in population -- almost 62 % .
+And the elder part is not small too .
+Then , looking at 2050 pie charts for both countries , we can see that the elder population in Yemen will not increase much , while in Italy there will be almost twice more elders .
+The number of people aged 0-14 years in Yemen will considerably decrease , leaving place for adult population , which will grow up by 11 % .
+To sum up , we can clearly see that Yemen has tendency to have more young population , while Italy has more representatives of elder age groups .
+And in 50 years the ages of population of both countries will change consequently .Parsing file: IELTS2015/KKolosova_9_2.txt
+Public health has always been an urgent topic .
+Nowadays when peoples health is affected by different dangers , caused by the development of humanity , this topic is especially problematic .
+Scientists and politicians have quarelled about the best way to improve public health .
+Some people think that creating more sports facilities will help , while others do n't agree with it .
+In this essay I will discuss different opinions .
+As it was written earlier , some people suggest building more sports facilities .
+They state that more people will visit gyms and swimming pools if there will be more of those .
+For example , it will be more convenient for some people to go to the local gym than to travel to another side of the city and backwards .
+On the other hand , some people say that it is all about encouragement , not convenience and availability .
+They argue that people should be encouraged to visit sport centers and to watch over their health .
+If it will be so , governments will not have to spend money on extra sports facilities .
+Money will be spent on the improvement of healthcare and older sport facilities to make them suit the needs of people .
+As far as my opinion is concerned , the main target of any social state is to maintain proper level of health and welfare of it 's people .
+That 's why not only new sport facilities should be created , but new hospitals and medical centers .
+Then , to suit the number of these facilities , a lot of professional doctors and medical personnell should be `` grown up '' in the state 's universities .
+All these methods will help one state to provide sufficient healthcare for it 's people .
+All in all , public health , the level of which has lowered through previous decade , should be taken care of .
+If all the policies I have brought up in this essay will come true , the level of public health will increase and with it , nation 's welfare .Parsing file: IELTS2015/KKolosova_24_1.txt
+The chart shows the information about total minutes ( in billions ) of telephone calls in the United Kingdom from 1995-2002 divided into three categories : local and national/international fixed line and mobile calls .
+We can see from the chart that local calls are the most popular and mobile calls are less popular throughout the period , but the situation tend to change , as mobile calls , having relatively low numbers at the beginning of the period from 1995 to 2000 rapidly become much popular during 2000s .
+with almost 10 times more minutes of calls in 2002 than in 1995 .
+National and international calls have a steady increase in the number of call minutes throughout the period , paining about 2-5 billions a year .
+Local fixed line calls had a peak in 1999 , steadily rising until this year and starting to lose positions at almost the same rate after .
+In general , we can see an increase in total number of call minutes , and mobile calls have became significantly more popular in 2002 than in 1995 , while other types of calls have ether a relatively moderate increase , as national/international telephone calls , or maintaining almost the same number of minutes in 2002 as in 1995 ( local fixed line calls ) .Parsing file: IELTS2015/KKolosova_24_2.txt
+There are lots of discussions these days about high school programmes .
+People want to give their children the best possible education , so they are widely discussing the education standards , programmes and lows , but there is some thinking to be done about events and activities happening outside the class , for example , some people believe that one of compulsory parts of high school education should be a unpaid community service , which involves working for a charity , improving the neighbourhood and other .
+In my opinion , having such project as s part of high school education is a really good idea .
+Students will gain a lot of experience which will help them during their lives , an experience they would never receive in the classroom .
+They will have a chance to work and communicate with different people , not only gaining useful knowledge and experience , but also improving their socialization and communication skills .
+This programme would also be benefitable for the charities , which often do n't have enough people to achieve their goals , and for the whole community in general .
+There are also people who do n't want their children to participate in such programmes .
+Possible reasons for that include these : by the first , such activities may take a lot of time and concentration , thus reducing the quality of education as students will have less time to spend doing homework or revising the material .
+By the second , some families may be concerned about the fact the service is meant to be unpaid , not allowing students to gain some work experience and earn some money .
+In conclusion , the idea to have an unpaid community service as compulsory part of high school programmes seems really appealing to me , because not only students will benefit from these activities , but also the whole community and society .Parsing file: IELTS2015/MTsygunova_6_2.txt
+Salatkina Maria СПб 28.03.14 менеджмент 13-00 311 TASK 2 There is no rout that the main value in everybody 's life is heath .
+However , despite the accessment of heath insuarance and the development of science and medicine , public health is getting worse .
+Someones claim that it is necessary to rise the number of sport activities at schools and universities .
+Others argue that this way would not dramatically change the situation and there are other methods to solve the problem .
+On the one hand , sport exercises help people to keep feet and therefore to decline the ability of having health problems .
+If a person does not pay enough attention to sport , it can lead to obesity and heart diseases .
+Moreover , sport activities provide good heath and as a result people do not have to spent time on visiting doctors and wasting money on different expensive medicines .
+On the other hand , the problem with public health can not be solved only by increasing the number of sport facilities .
+The government should transform not education , but health insuarance system .
+Drinking alcohol and smoking should be forbidden not only among teenagers but also among their adults .
+The healthy lifestyle are required to become popular with the help of newspapers , television , the Internet and other mass media instruments .
+To draw a conclusion , I am convinced that both view are likely to take into a consideration .
+In my opinion , improving public health is impossible without strong governments ' action .
+More than that , everyone should be respovsible about his health and try to reduce work pressure and to find time on sport activities .Parsing file: IELTS2015/Polyanskaya_16_2.txt
+Nowadays some people are sure that men and women must be accepted by universities in equal proportions .
+On the other hand , some people claim that universities should not take such measures .
+I totally agree with latter for the following reasons .
+To begin with , it is wide known fact that males can succed in certain spheres of knoweledge whereas women -- in other .
+What is meant is that there is a kind of a tendency that men prefer mathematical studies such as engineering , computer science , some IT-branches , while women would rather choose , for instance , social science like sociology or politology ; foreign languages and literature .
+So , it would be wrong to force a man to study sociology if he feels that he might be more satisfied and successful studying math .
+Some might argue that both males and females become doctors , but I am convinced that , for example , the greatest surgeons are men .
+Another point for not establishing such laws is related to future professions of students and their position in social structure of our society .
+In some kinds of jobs employers are willing to employ only male , for instance , in IT-companies because , as far as it is believed , men are able to manage with analyzing big amount of information , they are more punctual and they could seldom be stressed .
+Turning to some female professions .
+It is worth noticing that women are more required in such sorts of jobs like nurcing care , teachers , sometimes writers .
+According to some stereotypes , women are more emotional , they find it easy to learn and teach .
+In order to avoid depression and , unemployment , males and females must have choice what job they want to do and then enter the university where no restrictions must be established .
+In conclusion , although there are some difficult situation when a person must study the subject they do not want to , I am sure that universities should not limit the number of different gender students because it could lead to huge problems and not balanced labour-market .Parsing file: IELTS2015/VKovalevskaya_2_2.txt
+One of the inevitable human rights is freedom of speech .
+Considering any form of art a way to speak about something hardly anyone can make any restrictions without breaking the essential human rights .
+Meanwhile I think it is necessary to give all the freedom to any artist , it still seems fair to me that piece of art can somehow hurt other people , so the government restrictions can be used only for protection but not for limiting one 's will to express himself .
+Due to the fact that contemporary art is developing and becoming more and more extraodinary , some people can say that the government should restrict such perfomance that can somehow hurt feeling of other people .
+The scandalous organisation `` Pussy Riot '' , which had punk pray in the cathedral , is still being discussed .
+All the people are divided into two fighting groups ; one is proclaiming that this perfomance is a form of modern art aimed to express the political protest , and another group is sure that the punk pray is nothing but only an attempt to hurt the feelings off religious people and descrinate the faith .
+However , freedom of people to express their own is a constitutionally proclaimed right of everyone so no one can be deprived of it .
+More to say , throughout the centuries all the artists ( musicians , painters , poets ) have struggled for their freedom to be heard .
+Therefore , it seems to me like it is not the government who can somehow restrict the artists ' freedom to express themselves .
+The only rules that can somehow be excercised must be created only by the common will of society , so these rules will become some moral orientiers for artists in order to make it more easy to distinguish where the expression of themselves can hurt anyone else .Parsing file: IELTS2015/VKovalevskaya_3_2.txt
+There is an opinion that creative people like artists , writers and so on should have the freedom to express their ideas in whichever way they may wish and governments should not barrier their activities .
+As for me , this point of view is absolutely wrong .
+First of all , if governments allow people who call themselves artists to express themselves in whichever may they like , that will provide an unstoppable chaos because than anyone just by proclaiming that he is an artist will have a liberty to do whatever he likes calling his actions an art .
+Furthermore , I believe that governments should provide order and order is only achieves by control .
+Governments which ca n't provide control may lose a respect of their citizens and , which is much worse , legitimacy .
+For example , last year one so called artist clipres his testicles to the ground at the Red square as an act of protest against Russian government .
+As for me , I doubt that this is an acceptable way of self-expression .
+There is an another argument : providing such freedom to artists conpredicts the basic principles of the democracy .
+According to the liberal position , no group should have preferences in their social rights , everybody must be equal , no mater who those people are : buisinessmen , labors or artists .
+If society gives preferences to some group they means that this group may avoid rules which influences freedom .
+In conclusion , I 'd live to state one more time that artists should not be out of restrictions on what they do because it is immoral and unfair to other social groups and also because this may put society in a dangerous situation .Parsing file: IELTS2015/VKovalevskaya_5_2.txt
+Some people argue that creative artists are given too much freedom nowadays , while others think that self-expression ca n't be limited with any kinds of rules .
+I suppose that artists should be able to create whatever they want .
+Nevertheless there have to be some restrictions related to showing it publicly .
+First of all , some artists do n't have any boundaries and a lot of people love their works .
+However , these pieces of art can be harmful for children , because they are very sensitive and they percept everything they see .
+That 's why it 's reasonable to prohibit children to watch some films , visit some exhibitions and listen to some pieces of music .
+Secondly , I have mentioned earlier that these restrictions should not be too serious .
+It means that artists should have their right to create anything they want .
+If a child gets access to prohibited pieces of art it 's not the fault of an artist .
+Also I believe that the grown-ups are able to decide themselves whether to read a book or not , whether to go to an exhibition or not .
+Even if they are shocked by the way an artist expresses himself they can deal with it .
+That 's why the adults should n't not be restricted from getting acquomted with this or that piece of art .
+The only limit has to be the dignity of other people .
+I think that it concerns some kinds of installations .
+All in all , it seems to me that people are free to express themselves .
+On the other hand , they need to remember that they are not the only ones who will see their creations .
+The restrictions are to focus on protection of children and dignity of other people and not on some political matters .
+These restrictions should not be similar to censorship .Parsing file: IELTS2015/VKovalevskaya_9_2.txt
+Nowadays the question of self-expression is being widely discussed , because of spreading the government restrictions on it in Russia .
+To my mind , there should not be official restrictions from our government , but there should be inner moral rules about what somebody can or can not do .
+Firstly , I have to say that nobody can stop our imagination creating different ideas , and government restrictions will not make us do it .
+They can only make some types of arts illegal , but it does not mean that these types of arts will die out .
+If government gives us freedom to express our ideas , there will be more orginized events and festivals .
+In this way government will show that it trusts it 's nation .
+But I should notice that some types of arts can not be shown to the children , because it may hurt their feelings or minds or be really unacceptable for this little age .
+I want to say that we should protect young consiousness from harmfull effect .
+Besides , I believe that expressing and watching are different things , that we can not combine in our discussion .
+I guess that everybody has a right to express what he thinks or feels , but everytime a person should remember that he can upset his relatives or friends .
+Everybody has different views on music , politics , art .
+We should be tollerant and respect an opposite point of view .
+To sum it all up I want to say that everybody has to dicide for himself if he can express something , which is inside of him , or can not .
+For me , it is more important to have inner restrictions than have useless government rules which try to control our modern art .Parsing file: IELTS2015/VKovalevskaya_12_2.txt
+They say creative people should be free to express their creativity in any way they want .
+In my personal opinion culture and art is certainly an inceporable peace of our everyday life .
+So those who create genuine art are [ ir ? ]
+tal for the soeciety to develope in the right direction .
+Though , creative artists are obviously should feel free to express themself in all ways of art like literature , cinema , painting etc. , they still should have some moral boundaries , not necessary provided by government .
+I do believe that everyone should know the difference between expressing themselves and total limitless egoism .
+Especially when those artist want the audience to see or to hear their masterpience .
+What I mean is art can not be associated with insulting others , making harm to others even if the Creator suppose it is how He sees the world .
+For example , a famous singer is writing a rude song about his enemy or a person he just dislikes .
+As soon as the people hear this song , they will have prejudices against this person without even knowing him/her .
+Moreover , sometimes so-called art can have some inappropriate content , it can be inappropriate for children , for instance .
+This is when the government can interfere and put some age restrictions .
+All in all , I understand that artist are free spirits , though I still stick to the idea that the genuine ( which is very important ) art and the rules of morality and tolerance should compromise in order to prevent chaos and misunderstanding .Parsing file: IELTS2015/VKovalevskaya_21_2.txt
+Creativity is the sphere , which might always be free from government and law restrictions in reason to be able to express artists ' own view on art .
+To what degree It is true ?
+From my point of view , the art is a personal and intimate phenomene .
+That is why creative artists should be free from limits and boundaries .
+The main argument in favor is that It represents art trends and tendendies of modern generation .
+This cause leads us to another reason .
+Freedom in art expression helps present art to create the history .
+There is no doubt , that government restrictions erode genuine creativity and make current art biased .
+On the other hand , some people believe , that power limitations will help to control expressions of modern art , because sometimes it is neccessary .
+There are a lot of examples , when products of some creative artist over-step the law .
+Moreover , some art expressions break the moral principles by propaganding non-ethic ( sometimes violent ) ideas .
+However , I tend to think , that such activity and its different , non-typical views seem to be only another , distinguished lifestyle , which does n't mean immoral expressions , but conceptual .
+In conclusion , I would like to stress , that creative artists will always exists , and different opinions on freedom of their expressions will also exist .
+However , It 's up to you to decide , what to think about it .Parsing file: IELTS2015/VKovalevskaya_24_2.txt
+Nowadays , there are many heated debates about whether government restrictions should exist and control what creative artists are allowed to do or whether we should give freedom to those artists to express in a way they want .
+Personally , I absolutely agree with the first point of view due to some reasons .
+First of all , to my mind , it is absolutely important to control every sphere of our life , if it is not under a certain amount of control , there would be a disaster .
+Consequently , by giving the freedom to creative artists to express themselves as they want will definitely lead to certain problems .
+For instance , it would be almost impossible to keep an eye on a censure , because some artists have got an extraordinary views on art .
+Secondly , many unofficial films , pictures etc. will appear .
+Hence , it would be veryhard to control this big flow of pirate movies , not officially recorded songs .
+Therefore , it will lead to more people who break the rules and the rate of crime will grow .
+On the other hand , many people may say that we have to think about the freedom of expression .
+While speaking about this theme .
+Although this opinion makes sense , little to these people realize how many disadvantages will appear when government restrictions are off .
+To reteirate my point of view , I do believe that everything in this world should be under the control of something whether it is government or parents , because without restrictions we will not be able to live a sedate life .Parsing file: IELTS2015/VKovalevskaya_29_2.txt
+Many years ago government could punish some creative people when their ideas did not support power 's way of managerment .
+Today artists have the freedom , but sometimes government can restrict their ideas .
+I am convinced that creative artists should not be restricted .
+In my opinion , politics and art do not have the same reasons .
+The function of government is regulation of social , economical and political relationships in society .
+Art is another world that gives up an opportunity to think and live as we wish in our fantasies .
+If creative persons forget their freedom to express their ideas , we will not see the new kinds and trends of art .
+Modern life is very dynamic , it changes very fast .
+Yes , we have many wonderful pictures of 18 century , we can listen to classical music and watch old films .
+But , despite of it , we need more genius compositions .
+We know that some of modern songs , films , cartoons and pictures have the signals of revolution .
+Power afraid of this trend , because modern art can influence the society more then government .
+Without any doubt , sometimes it can be useful .
+Power corrupts .
+Art is indicator of people 's opinion , and people can influence government .
+Freedom is a criteria of democracy .
+Democracy is the main idea of modern life , that is why today everybody can express his ideas the way he wants .
+But some people have an opposite viewpoint .
+They sure that modern painters and singers are very free , that is why their expression is ugly and can influence children and polite people bad way .
+I think that these people are afraid of changes in modern world .
+Art is long , life is short , that is why freedom should be the main criteria of modern art , because we need the new ways of expression .Parsing file: IELTS2015/VKovalevskaya_34_2.txt
+That wo n't be an exagerration to say that art is what makes our life brightful and fills it with beauty and emotions .
+It often touches upon social problems and a lot of people of art are sure that the main purpose of their activity is to reveal these problems and to draw public attention to them .
+They are eager to deliver their position and express themselves through art .
+However , they often face censorship .
+Even in the age of Ekaterina the Great it was forbidden to write about the issues those contradict the policy of the monarch .
+Ekaterina ordered to burn all the the book `` The travelling from St. Petersburg to Moscow '' , which depicted the poor life of the peasants .
+Censorship exanded in the Soviet Union , a lot of information was hidden from the citizens of our country .
+Even when the Chernobil accident happened not all the inhabitats of Pripyat were informed and evacuated , so it can lead to terrible consequences .
+These examples show that a freedom of speech and a freedom to express your ideas are of essential importance .
+I strongly believe that the government should avoid approving any bills that can restrict people say what they want .
+Any bill passed for the sake of creating phrames and bourders for journalists , artists , musicians does n't bring a benefit to the society .
+Evidently , these measures are aimed at contributing to the strength of the authorities only .
+The fact is that the restrictions have n't ever been objective .
+All the views should be expressed , everyone has a right to be heard , and the public is to decide wheather to agree with a person and his opinion or not ; not the government should make a decision .
+All things considered , I am sure that censorship brings disadvantages to the society only and all the possible views should be presented to the public .Parsing file: IELTS2015/ZEvdaeva_3_1.txt
+The charts provide information about travelling abroad by Englishmen and visits to the UK by foreigners from 1979 to 1999 as well as the most popular countries which UK residents went to in 1999 .
+Due to the charts , UK residents travelled to the other countries more than overseas residents visited UK .
+Moreover , there were two most visited countries by the English which were Spain and France .
+To look more precisely at the first chart , there was slight difference between numbers of UK travelers and foreign travelers in 1979 , which accounted approximately 13 millions and 10 millions respectively .
+This difference had increased substantially by 1999 , making up to 28 millions and 54 millions respectively .
+Due to the information about the most preferred countries by the English in 1999 , the most popular ones were France and Spain which are visited by 11 millions and 8 millions people .
+USA was the third most visited country ( roughly 4 million of people ) , while Greece and Turkey were the forth and fifth ones ( 3 millions and 2 millions respectively ) .
+Overall , the UK residents were more active travelers than foreigners in the UK in period between 1979 and 1999 .Parsing file: IELTS2015/ZEvdaeva_3_2.txt
+Nowadays behaviour of students is becoming a burning issue in several schools all over the world .
+School children neglect many school rules as well as miss a lot of classes .
+That is a tricky question why it happens and what can be done to improve this situation .
+There are several possible reasons for that problem .
+First of all , the main cause of bad behaviour is teenagers ` nature .
+Children in difficult age are always supposed to protest against rules they do not conform to .
+There is nothing to do in order to improve that type of nature , but some changes can be done .
+As far as I am concerned , the most important thing is to give teenage students to develop culturally by giving them more lessons on arts , culture and so on .
+At the same time , teachers should understand what is needed for young people and respect their wish to show individuality , to set up their own rules and so on .
+That type of teachers ` behaviour can lead to mutual understanding and improving situation .
+Secondly , one another reason for the problem of bad behaviour us that students are not involved in the process of education and not interested in getting new knowledge .
+That is a result of boring classes and the fact that children are not informed how they can use that knowledge .
+That is why students miss classes being sure they are unresourceful .
+The possible solution for it is to explain them why every course is important and what is the main purpose of it .
+For instance , as children understand the importance of knowing biology for future doctors , those who want to become a doctor learn it rarely .
+Moreover , teachers should make their lessons more interactive and capturing .
+These actions are to assure children not to miss classes and to encourage them to learn , which is likely to result in their behaviour .
+To sum up , I would like to add that some actions are able to be done to improve the situation of bad students ` behaviour even if causes are difficult and lie in the very nature of young people .

@@ -1,0 +1,416 @@
+Parsing file: IELTS2015/AAliutova_11_1.txt
+The graph presents data velaiting to population of 65 and over aged .
+The hovirontal line shows years and the vertical line shows percentage .
+From the graph it can be noted that the proportion of the population aged 65 and over increases from 1940 to 2040 years in all countries , which are presented .
+The number of periods , when percentage falls down is not big .
+These periods are in 1940-1960 years in the USA ; in 1980-2020 years inJapan and the period between near 2015 and 2030 in Sweden .
+It should be mentioned that diagramm shows great increase of the population aged 65 and over in shord period of time in Japan between 2030 and 2035 years .
+The percentage of population develops in equal way in the USA and Sweden from 1940 to 1990 and it consist 9 percent and 7 percent .
+In 2040 years the percentage of the population ranges between 22 and 28 percent in these countries .
+To sum up it should be understended from the graph that percentage of the population aged 65 and over grows and there are no pics here .
+But between some years there are small decreases of the population .Parsing file: IELTS2015/AAliutova_23_1.txt
+The graph illustrates how many people about 65 years old and over live in Japan , Sweden and USA in a certain period of time .
+According to this graph , the amount of such peope in Sweden and USA is quite simmilar .
+In comparison to these two countries , the proportion of the population aged 65 and over in Japan is lower between 1940 and 2030 .
+This proportion in Japan reached a low of just 3 % of people aged 65 and over in 1960 and maintained the same level in 1985 .
+Besides , the population of old people will increase at the end of the period of time , which is taken into account in the task .
+Moreover , nowadays more people under 65 live in Sweden , than in Japan and USA .
+All in all the graph shows , that the amount of people aged 65 and over is not static between 1940 and 2040 , it changes dramatically and in whole is going up .Parsing file: IELTS2015/AAliutova_35_1.txt
+Sugested chart below gives to us innformation about the proportion of the population aged 65 and ove between 1940 and 2040 in USA , Japan and Sweden .
+First of all , population of this people in Japan was the most little from 1940 to 2030 .
+From 1940 to 2000 the population aged 65 and over was about fife percent .
+In 2040 this population in Japan will be biger and consist of more than twenty fife percents .
+Americans citizens aged 65 and over were the biger number of people from 1940 to 1998 .
+In 1940 it was 10 percent and in 1999 it was 14 percents .
+After 2000 , line of this american population are increasing .
+I 2040 it consist of 23 percents of all population .
+White the help of this , we can say , that borning in the the USA was feeling all the time .
+The Sweden proportion of the population aged 65 and over has a lot of feelining and increasing .
+In 1940 this propotion was 5 percent from all population , and this was increasing to 20 percent in 2015 .
+After this , the line of proportion was feeling to 17 percents in 2030 , and after this inereasing to 25 percents in 2040 .
+As aresult , we can name the same dinamic of increasing proportion of the population aged 65 and over in this countries .
+This graph shows us , that qualer of the population is old people , and borning was decling or level of life in this countries was increasing .Parsing file: IELTS2015/AStepanova_29_1.txt
+The chart provides particular figures for underground systems in different world cities .
+The underground route in London is by for the longest , while Tokyo subway provides the highest amount of oassengers by transport per year .
+From the 1864 to 1927 years underground system were opened in such a famous world cities , as London , Paris , and Tokyo .
+The first subway was opened in London in 1863 , were 394 kilometres in route and was I pushed by 775 millions of people per year .
+Compare to this , Paris underground , founded in 1900 , was almost half shorter , but allowed significantly more passengers to transport ( 1191 ) .
+Tokyo railway , opened in 1927 , was only 155 kilometres on route but , compare to previous system , helped to travel to almost 2000 millions passengers .
+In the second part if the 20th century , there were founded another three major railway systems , which although had significantly worse harasteristics .
+The Washington Dc system , opened in 1976 , was 126 km in distance and had only 144 millions of passengers every year .
+The figures for the rest two undergrounds , Koyoto and Los Angeles , founded in 1981 and 2001 , were considerably less than even in Washington DC .
+Koyoto subway had the shortest route , only 11 km , and the lowest rate of passengers ( 45 million per year ) .
+For Los Angeles figures were slightly better : 23 kilometres of route and 50 millions of people , using transport per year .
+Overall , summarizing all the dats given , it is obvious that underground systems , founded between the second half of the 19th century and the first half of 20th centery , had more significant transport characteristics and until today may provide transport provide successful transportation for larger amounts of people , than much younger subways , founded in the last three decades of the 20th centuryParsing file: IELTS2015/AStepanova_29_2.txt
+Nowadays many people are in a serious concern about their self-development and personal qualities .
+Some conducted research provides information about the major role of our initial potential in the life lasting personal development .
+However , does this mean , that wider range of experiences we get throughout life do not contribute to personal fulfillment ?Parsing file: IELTS2015/DZubova_35_1.txt
+The table shows statistic data , which contain information about the underground railway systems in six cities : London , Paris , Tokyo , Washington DC , Kyoto , Los Angeles .
+The oldest railway system in London , but it is not only the oldest , but and the longest -- three hundred ninety four kilometres of route .
+The second city in historical path is Paris .
+Railway system was open in 1900 and today have one hundred ninety nine kilometres .
+Productivity of Tokyo railway system is very impressive because it services about 2 billions passengers per year .
+Los-Angeles-city with the youngest railways .
+Underground was open in 2001 , have only twenty eight kilometres and using only by 50 milions people per year , but , for example Kyoto have only 11 killometres and using by 45 milions passengers , however the system in Kyoto was start in 1981 .
+Summirized information from table illustrates , that japan have the most powerful railway in the world because it is the most innovative country .Parsing file: IELTS2015/DZubova_35_2.txt
+Nowadays , science makes a great numder of researches in different spheres of our life , for instance , health , psyology , and etc. .
+One of researches showed , that the borned characteristics more important for our personality and development .
+It have two sides .
+On the one hand authority of scientists every big and we should to believe in this point of view , because influence of the characteristics we are born very strong , but everything is changing ... I think that nature gives us only life and every man building himself during his way .
+Friends , environment , family , different situations in life and many another factors influence on our body and mind much more than borned characteristics .
+On the other hand we have point of view of scientiests , which prefer numders and words of them researches than real life .Parsing file: IELTS2015/DZubova_40_1.txt
+This table shows the Underground Railway systems including six cities .
+The first metro was founded in London in the 1863 .
+It 's the first metro in the world .
+Los Angeles is the youngest one with its metro founded in 2001 .
+Only 45 millions of people use Kyoto 's metro every year , because its small Japanese town .
+On the other hand is Tokyo also situated in Japan but it is big megapolise with the 1927 millions of people .
+It is the highest score !
+The longest railway is situated in London .
+Its about 394 kilometres of route .
+The next one is Paris with 199 kilometres long .
+Third place has Tokyo with 155 kilometres .
+And the last one is Kyoto with only 11 kilometres .
+Finally , the biggest railway is in London .
+The oldest one is in London also .
+The highest people traffic has Tokyos railway with thousands of people every year .Parsing file: IELTS2015/DZubova_40_2.txt
+Actually , I think that experience we are having during our life has more influence .
+Because characteristics we are born with may be changed during the learning process .
+Its no matter because when human is child its possible to change his character .
+Experience is very important .Parsing file: IELTS2015/EEmelyanova_7_1.txt
+The graph below illustrates how many people 's procent of age 65 and over live and will be live between 1940 and 2040 in Japan , Sweden and USA .
+As we can say , in all countries the proportion of aged 65 and over will be on the high level by 2040 .
+In detail look , we can see , that in Japan between 1940 and 1960 the proportion of old people was decreased from 5 procent to 3 procent .
+However , in Sweden it rose to 8 procent from 4 procent .
+Meanwhile , in USA there was 9 procent of people aged 65 and over in 1940 , then in 1960 it increased by 10 procent .
+In Japan between 1960 and 1980 the proportion was at the same level .
+Unless , in Sweden and USA it rose to 14 and 15 percent .
+The graph below presents to us , that between 1983 and 2030 in Japan it rise from 3 procent to 10 procent , but in Sweden it is a little fall to 13 13 procent , but there was a high growth to 20 procent in 2010 .
+By 2020 it will drop down to 18 .
+In the USA , in 2020 the proportion will be steady .
+In 2040 the procent of old people will be on the high level : in Japan - 26 procent , in USA - 23 , in Sweden 25 .
+In conclusion , we can see that the old population is rise up nowdays .Parsing file: IELTS2015/EEmelyanova_7_2.txt
+Nowdays the university gives opportunity to study everyone , if you have money or you pass an exams on a high mark .
+As for me , I think that there is no need to accept equal numbers of male and female students in every subject .
+Nowdays , I suppose , that in every university we have normal numbers of girls and boys .
+Also knowledge not depends on who you are woman or man , it depends on how you study , prepare an exam and so on .
+In addition , I would like to say that everyone have different thoughts on their future career , specialization .
+Some are not so famous and wide spread than others .
+For example , boys often choose such subjects like engineering , economics , physics .
+Of course girls can chooseParsing file: IELTS2015/EEmelyanova_8_1.txt
+Graph illustrates situation of population over 65 and 65 in particular in three countries such as Japan , sweden and USA .
+First of all , we can see that in general way percent of population aged 65 and over from 1940 to 2040 grow significantly .
+Big difference we can see in Japan where at 1940 population aged 65 and over is just 5 per cent , but at 2040 it will be about 27 per cent .
+In Japan and Sweden we can find dinamic changes , because per cent of population aged over 65 can rise and fall from time to time .
+We also can find , that in our days situations in every country are completly different .
+About 20 % of population aged over 65 in Sweden , a little bit less that 15 % in USA , and just about 7 % in Japan .
+Newertheless in 2040 we will have other situation where we will hav n't such big difference .
+This graph helps us to see that situation with population aged 65 and over can change very often .Parsing file: IELTS2015/EEmelyanova_8_2.txt
+In our modern world everyone should find their own profecional way .
+We should also realize that this way is started when we chose our educational program .
+In universities few kinds of programs can be more popular among the male group and other kinds among the female group .
+That is normal situation , but newertheless we can find other points of view , for example , a lot of people can say that universities should accept similar numbers of boys and girls for every faculty , and this opinion also very important .
+What should do universities in this situation ?
+Is it really important for our education sistem to accept equal munders of male and femal students ?
+I think it is really nesessury to discuss about it .
+On the one hand , it is good idea because in this ay we will have a lot of specialists in every sphere of scince among the man and among the wemin , and it can be good balance between them .
+But on the other hand , everyone should have their own decidion ( ? )
+, and , of course a lot of sudjects can be more interesting and useful for mail group , and in the same time it can be very hard for femail groupto chose it for future careir .
+Natures of man and women have a lot of perconal features which have big influence on their life .
+I agree with this opinion , because , I think that this situation can create gender differences and it will have bad results in general social situation .
+Some sudjects will be very popular among the female group , but number of educational places will be less , because other part of places can be saved for male group .
+Generally , I think this is bad way , which ca n't solve educational problem , and which ca n't change situation in better place .Parsing file: IELTS2015/EEmelyanova_18_1.txt
+The graph represents to us the proportion of the population of people which aged 65 years over between 1940 and 2040 in Japan , Sweden and USA .
+We can say that in Japan between 1940 and 2030 less people lived to aged 65 .
+But since 2030 this situation is change .
+Population of Japan live more longer .
+In 2040 27 % of population live to 65 years .
+In Sweden population which aged 65 is 7 .
+The graph of proportion population hesitat .
+In USA in 1940 proportion of population aged 65 and over was the highest ( 9 % ) between Japan and Sweden .
+The graph hesitate and to 2040 year is 24 % .
+To sum up , in this graph we can see that in 2040 the first places among three countries is Japan .
+Population of this country live longer .
+The second place is Sweden - 25 % of population lived to aged 65 and over .
+The USA to less their position , and now is in the third place ; but in 1940 was the first .Parsing file: IELTS2015/EEmelyanova_18_2.txt
+Early universiti was only to male students .
+But in 20 centry opened university to female students .
+Now all studients studies together .
+In all subject we can see equal proportion of male and female .
+I think that in university must be separate to male and female subjectsor must be competitions among students that studie this subject .
+Not all subject female studient can be studie .
+For example , math and economics is male subject .
+Most of famous people who was sucsses in this subject were men .
+And in future when the students will go to work the male studients much more easier to find well-peid job then female .
+The female studients much more successfull in creative subject as art , literature , language .
+This is their subject .
+The mind of female studients work much better in cultural subject .
+As the other hand many examples when female studients as successful in math , economics and techick subject .
+Nowadays many women successfull .Parsing file: IELTS2015/EEmelyanova_22_1.txt
+The line graph compares the percentage of senior people aged 65 and more in three countries over the period of 100 years .
+It is clear from the graph that figures for Sweden and USA have been rising approximately relatively throughout the period shown .
+It is also noticeably that by 2040 it is expected for all countries to see a dramatic increase of population aged 65 and over .
+While proportions in USA and Sweden rose steadily ( from 10 to 15 % and from about 7 to about 14 % respectively ) , Japan saw a decline in 1940 and pesentage fall by about 2 % in 1960 .
+Than the figure for Japan remained stable between 1960 and 1987 .
+However , it is predicted for Japan that proportion of senior people will rocket in about 2030 to over 25 % .
+Also it is expected for USA and Sweden figures to reach its ' peaks by 2040 at 23 % and 25 % respectively .Parsing file: IELTS2015/EEmelyanova_22_2.txt
+There are different views whether it should be a balance of male and female students in every subject or not .
+I completely disagree with the idea that universities should accept equal numbers of men and women .
+The main argument of opponents would be that balanced proportion of males and females in subject lets create balanced society with differentiation of labour .
+However , I believe that natural proportions could help to see tends in students ' choices .
+Moreover , they would be able to realize in a sphere they want .
+So students can spend their time doing things they are good at .
+Thus , we will get escelent specialists at different sites of our life .Parsing file: IELTS2015/EEmelyanova_28_1.txt
+This graph illustrates the number of the population aged 65 and over between 1940 and 2040 in Japan , Sweden and USA .
+First of all , there are three main trends and figures connecting with all three countries changed .
+In 1940 , the percent of older population was nearly 10 % , in contrast in Japan it was only 5 % .
+Next , in 2000 , there was nearly 15 % of the population aged 65 and over in USA , while in Japan it was only nearly 5 % , but after this the graph rise dramatily , and experts say that in 2040 the population of older people in Japan would be nearly 27 % .
+On the other hand , experts predicted that in 2040 in USA would be only 22 % population aged 65 and over .
+Next , in Sweden in 1940 there are only 7 % of older people , but when the line rise and expert say that in 2040 there will be the 26 % of the population aged 65 and over .
+Talking at all , from 1940 to 2040 Japan and USA changed the positions .
+Clearly , that persentage of the population aged 65 and over rise in all of three countries .Parsing file: IELTS2015/EEmelyanova_28_2.txt
+Talking about history of education , it 's really hard to predict what programms will appear in the future .
+Nothing stay unchangeble , and educational process also changed .
+Is it good that only girls or boys vicited some subjects ?
+Isnt ' t it unfair ?
+As for me , I think it is interesting to work not only with boys or girls .
+It hepls to create a healthy atmosphere at class room , to work with different opinions and views .
+Also , it is difficult to organaise the educational process in the way that will be the equal number of mele and female students in every subject .Parsing file: IELTS2015/KKolosova_18_1.txt
+As it is shown on a chart , number of calls by local fixed line has increased during the period from 1995 to 1999 , and then it decreased from 2000 to 2002 to the level of 1995 , less more than a 70 billions .
+But till 2002 this type was the main .
+The international calls have only increased during all the period of the chart .
+At 2002 number of this calls rised less than twice .
+In the chart this type always has a second place in numbers of calls .
+The number of mobile calls has increased about 10 times during the period of chart .
+In 2002 this type of calls reached the level of international calls in 1996 , 40 billions .
+But in the end of period of chart it is still lower than other types of calls .Parsing file: IELTS2015/KKolosova_18_2.txt
+I think , working in or with some communities is an important part of the adult life , so it is needed to get prepared to it during the higher education .
+For example , students of second or higher years could work as assistants of their past teachers , helping them with checking home tasks or laboratory works .
+Also universities could provide programs with some corporates that are looking for good-perspective workers and are able to let them practice during their education , so these students could gain more experience in their subjects .Parsing file: IELTS2015/MTsygunova_18_1.txt
+The pie charts show structures of population in Yemen and Italy by the age in 2000 and expectations for 2050 .
+The half of Yemen population in 2000 are children under age 14 .
+The next age group of people aged 15-59 years performs 46,3 per cent of Yemen 's population .
+The smallest part of people of Yemen consists of people aged 60 year and more .
+According to the projections numbers of people in the age of 15-59 years will show a considerable increase in 2050 by 11 per cent , such as people aged 60 and more years by 2,1 percent .
+Percentage of children will become smaller .
+On the charts about population of Italy can be seen that percentage of people aged 15-59 years is biggest and it is 61,6 per cent .
+Moreover people in the age of 60 and more years consist of one quarter of population of Italy .
+Percentage of children under 14 is smallest and takes 14,3 percent .
+Through the expectations there will be growth in percentage op people in the age of 15-59 years .
+But numbers of people aged 60 and more years will jump to 42,3 percent .
+Percentage of children under 14 will not show so sharp increase , and will become smaller by 2,8 per cent than in 2000 .Parsing file: IELTS2015/Polyanskaya_5_1.txt
+Where is the graph consist of information about the percentage of population in the period from 1940 to 2040 in three differen countries : Japan ( thin line ) , Sweden ( broken line ) , and the USA .
+All that countries have a tendency to a grouth .
+The USA and Sweden have the same way to development in the whole period .
+The biggest difference between these on is about 5 percent in 2010 ( Sweden population have risen on 708 percent while the USA population stay constant ) .
+Population of both these countries have changed in about two times from the start and to the finish , where it have riched a pick in about 23 percent ( USA ) and 25-26 percent ( Sweden ) .
+As for Japan , this one has different way of population growth than others .
+It starts in 5 percent and do n't have a higher level before 1983 .
+After thwt time it is constantly rising and hit a pick at the finish in 27-28 percent .
+At the period from 2030 to 2035 the growth of population has a biggest change ( from 10 to 25 percent ) .Parsing file: IELTS2015/Polyanskaya_8_1.txt
+The graph shows information about proportions of population aged 65 and over for three countries : Japan , Sweden and the USA .
+The graph shows date from 1940 to 2040 .
+Over all proportion is growing up for the and of the periods .
+There is trend for hard raising in Japan and in the USA .
+We can see that bouth line up fom 7-9 % to 15 % 1980 .
+After that there is a little decreas and this two country start to have a differents ways .
+The proportion of population aged 65 and older in Sweden is fluctuating and rich a pic ( 25 % ) 2040 .
+The persent of old people in the USA stay constant ( 14 % ) from 1980 to 2020 and rising quicly ( 23 % ) during next 20 years .
+Absolutly contrast situation we can see in Japan .
+The proportion of old people aged 65 and over decrease in periods 1940-1985 from 5 % to 3 % and start growing after that .
+By 2030 the proportion of old people in Japan become equal 10 % .
+In the next decade this proportion hardly grow up and rich a pic in 27 % - the max value .Parsing file: IELTS2015/Polyanskaya_8_2.txt
+Nowadays , the hide education become more and more popular among youth people of bouth sex .
+Some people think that universites should accept equal numbers of male and female student in every subject .
+But other think that making equality of boys and girls an faculty is wrong .
+In my opinion , all students should take part in entring competition , despite of sex .
+All people should understand , that there are only male and only female professions .
+And that the main goal of university is preparing a good specialists .
+The society will have a very big problem if we will have equal number of male and female specialists in every professions .
+For example , if university will prepare equal numbers of profesions .
+For example , if university will prepare equal numbers of male and female builders , many women will have not a goad job , insted of men , whitch numbers will no enought for good work in this professions .
+Else , equal numbers of boys and girls on a faculty will no right for some people , which will not enter on some subject because of sex .
+For example , the university accept 30 boys and 30 girls on some subject .
+And that 31 boys and 30 girls wants to enter on this subject .
+The ending 31st boy will not enter on subject , because of his sex , just if he will have better exmam 's results that 1st girl , whitch will study in the university .
+In conclusion I want to say that there ar some advantages and disadvantages in bouth sistem of entring in the university .
+But I 'm sure , that male and female should have equal chance for entring .Parsing file: IELTS2015/Polyanskaya_12_1.txt
+On the following diagramm it can be clearly seen how many people from 65 years and more in the period from 1940 up to 2040 in countries , like Japan , Sweden and USA .
+First of all , the graphic below shows a small decreace in the number of old people in Japan .
+But , in in the end of 80s the situation changed greatly .
+It can be noticed that it is a steady rise from the end of 80s up to the 2030 .
+Moreover , the statistics shows us a dramatical increace in 2030 in the number of old people from 10 % up to 25 % .
+What about USA , it can be seen , that in the beginning of the period , the number of people after 65 was about 8-9 % .
+Then it can be noticed , that there is a stable rise untill 80s .
+After that , it is supposed , that the number will be falling untill 2015 , and , then it will be a huge increace up to 23 % .
+Finally , concerning Sweden , the following graph shows us a really unstable situation .
+It can be clearly seen , that at the period from 1940 til 1980 it was an an increace .
+Then , the diagrom shows us falls and rises that go after each other .
+Finally , it will rich at the number of about 25,5 - 26 % percents .Parsing file: IELTS2015/Polyanskaya_12_2.txt
+Nowadaz , we live in a world of fair competition .
+A great number of people from all over the world dream of having a good , high education in order to get a well paid job .
+In this case , many people claim that there should be an equal number of students of each sex , both male and female , in Universities in every subject .
+Personally , I am in two minds about this issue .
+On the one hand , without any doubt , it is a good idea for a plenty of reasons .
+First of all , it will be a perfect boost for developing tolerance in our society .
+Because , there would n't be jobs only for women and for men .
+And , so , it will destroy conflicts based on gender .
+Moreover , it will help our society to develop a lot of male areas , were women can be really usefull .
+In addition , such a measure can become a great socialisation tool .
+I firmly believe , that , for instance , on technical faculties , where the majority of students are men , equal number of female can make the study more interesting and productive .
+On the other hand , I am totally concerned , that such a situation is impossible .
+To begin with , I 'd like to tell , that male and female has different type of mind .
+Maybe , that 's why many boys tend to prefer technical subjects and science , while girls preder working with peopleand some not scientific subjests , such as history or sociology .
+Also , it is not fair at all .
+Why should we deny some boys or girls in order to make the situation in the university genderly equal ?
+The competition should , and only strongest ones should be able to study in the university , and it is n't metter is it a man or woman .
+All in all , I must confess , that it is a quite complicated topic .
+But , I also think , that this idea is really unfair .
+In the tryings to destroy the gender boards , to make everybody equal , to make our society absolutely tolerant , people no longer fallow the human sence .
+In my firm belief , we must stop it before it is too late .Parsing file: IELTS2015/Polyanskaya_13_1.txt
+In this diogram we can see the per sent of people which are older than 65 from 1940 to 2040 in three different countries , which are Japan , USA and Sweden .
+Firstly , it is easy to manage the drammaticly rising of per cent of old people from 5-10 % in the 1940 and 23-27 % in 2040 yaar .
+And the most significant growing up we can manage at Japan which starts from 5 percend and finish with near 27 persent .
+In Japan , firstly , line goes down from 1940 to 1960 where it stay at this level till 1987 , where it goes up .
+The most drammaticaly rising we can see in 2030 where the line significantly goes up to 25 per cent from 10 where it was .
+Also we can not see strong rising of lines of other two countries which are Sweden and USA .
+We can see that number of people after 65 and over years old is bigger than in Japan in 1940 .
+Nevertheless after 100 years , in the end of the graph amount of old people in this two countries is lower than in third one .
+Lines here does n't have any strong or significant rises as it was in Japan .Parsing file: IELTS2015/Polyanskaya_19_2.txt
+Nowadays the proportion of males and females among students depends on different factors , such as the faculty , the location , the prestige of the university , etc. .
+Because of this some people are sure that university should accept the equal number of girls and boys among its abiturients while in my opinion , such kind of system is useless .
+First of all , some works demand only males or females .
+For example , to be a driver in subway it is necessary to be a man while women are considerably not able to do this work .
+In this case , if the subway college would have the opportunity to study females , they will not be able to find any work after graduating .
+Secondly , even if the university will accept equal proportion of males and females , some students will fail exams not reached the end of study , and the proportion will be ruined .
+I find the conception not very good .
+Besides , it is clear that the majority of people are women and the proportion of students can not be provided due to this factor .
+Taking everything into account , I would like to notice that for me such system of acception students has a lot of disadvanteges ( among them `` male proffessions '' or `` female professions '' that exclude needs in both genders ) .
+I think , it should not be done .Parsing file: IELTS2015/Polyanskaya_20_2.txt
+Recently , there has been considered discussion of acception male and female students at universities .
+Some people reckon that equal numbers of men and women should be accepted in every subject .
+I do n't agree with such statement and think that universities should not put the gender framework .
+In my essay I will try to show the main reasons to support my point of view .
+First of all , we can say about different opportunities of male and female students .
+I mean that generally men have tend to technical subjects , whereas women have tent to arts subjects .
+In addition , every person has own talants and hobbies and can chose any direction .
+I mean that if majority of male students would like to choose arts subjects , but they ca n't do it because they have limited number of opportunities , while other subjects remain empty .
+What is more , exist such subjects which are not interesting for male students .
+In conclusion I would like to say that universities should not accept equal numbers of male and female students , because students have to decide themselves which subjects they would like to study .Parsing file: IELTS2015/VKovalevskaya_1_1.txt
+It can be seen the different levels of post-school qualifications in Australian between men and women in 1999 .
+The chart chows this difference in 5 qualifications .
+The great percentage of men had the skilled vocational diploma .
+And only 10 % of women had this qualification in 1999 .
+The undergraduate diploma had 70 % of men .
+It is less than the skilled vocational diploma .
+The women had more the undergraduate diploma than the skilled undergraduate diploma .
+The Bachelor 's gedree had about 50 % men and women .
+In this case gender does not matter .
+We have a small difference in this percentage about 10 % .
+It 's interesting that men had the Bachelor 's degree and had also Postgraduate diploma .
+Percentage of these men is huge ( about 70 % ) .
+However 30 % of women had this qualification .
+Master 's degree had 40 % of women and 60 % of men .
+In this way the men prefer to continue their education .
+However 70 % had the skilled vocational diploma .
+Women had undergraduate diploma and Bachelor 's degree .
+They thought that it was enought .
+And only bachelor 's program had not big difference between gender .Parsing file: IELTS2015/VKovalevskaya_6_1.txt
+The chart illustrates the different levels of post-school qualifications in Australia and shows us the proportion of men and women in 1999 .
+This chart consists of two lines : vertical and gorizontal .
+Each line involves some indicators , which help us to note an interesting tendency in post-school qualifications in Australia in 1999 and the proportion of two sexes among the candidates there .
+Vertical line shows the qualification of men and women , gorizontal line demonstrates percent proportions from zero to hundred percents .
+Vertical line includes such indicators as Skilled vocational diploma , Undergraduate diploma , Bachelor 's degree , Postgraduate diploma , Master 's degree .
+90 percents is a maximum among the candidates , who have a Skilled vocational diploma .
+And these people are men .
+And the minimum ( 10 percents ) we can see among women , who have the same qualification .
+Among the candidates , who have an Undergraduate diploma and Bachelor 's degree there is another tendency .
+There are more men than women .
+To sum up , there are three qualifications in post-school in Australia : Skilled vocational diploma , Postgraduate diploma and Master 's degree , where are more males than females .
+And there are two qualifications : Undergraduate diploma and Bachelor 's degree , where are more women than men .Parsing file: IELTS2015/VKovalevskaya_7_1.txt
+The chart represents the different levels of post-school qualification in Australia and the proportion of men and women who held them i 1999 .
+The level of men with Master 's degree is 20 % higher than that of women .
+The level of men , who held a postgraduate diploma is more than a twice as big as the level of women .
+However , there is a little difference between the level of men and women with Bachelor 's degree .
+The percentage of females , who held an undergraduate diploma is two times higher than the percentage of males with an undergraduated diploma and it is about 70 % and 35 % .
+On the contrary , the level of men , who held a skilled vocational diploma in 1999 is nine times higher than the level of women with sush post-school qualifications .
+The chart below indicates the information about 5 different post-school qualifications .
+The level of males who held diploma or degree in 1999 is higher in 3 of 5 represented qualification .
+Which includes skilled vocational diploma , postgraduate diploma and masters degree .
+However , the percentage of women , who held undergraduate diploma and bachelors degree is higher , than the percentage of men with the same post-school qualifications .Parsing file: IELTS2015/VKovalevskaya_8_1.txt
+The bar chart illustrates post-school qualifications in Australia and the proportion of men and women held them in 1999 .
+To begin with , we can see that the precentage of men taking the skilled vocational diploma is bigger than the women 's one .
+However , the number of women who have an undergraduate diploma is bigger .
+We can also see that the precentages of men and women with Bachelor 's degree ( ? )
+similar .
+The number of men with Postgraduate diploma is twice bigger than the number of women .
+We can find that the difference between precentages of men and women with Master 's degree is 20 % .
+To sum it up , I want to note that according to this chart the precentage of men with skilled vocational diploma , postgraduate diploma and Master 's degree is bigger than women precentage .Parsing file: IELTS2015/VKovalevskaya_19_1.txt
+On the bar chart we can see the different stages of post-school qualification in Australia and the proportion of both sex who held them in 1999 .
+We can see a rise trend of male qualification in position of skilled vocational diplome , to pay attention , it was almost 90 % and high amount of postgraduate diploma men - the percentage was 70 .
+The highest female data is over 70 % persent in level of undergraduate diploma .
+The general trend was that men were more succesful in three stages and female qualification was higher only in two stage , for example , in bachelor 's degree .
+To sum up , the post-school qualification of men are not much , but higher than women 's .Parsing file: IELTS2015/VKovalevskaya_22_1.txt
+The first tendancy , which one can notice on chart , is the quantity of males , with skilled vocational diploma 9 times higher than females with such kind of diploma .
+It 's the highest difference which concerns post-school qualifications in Australia .
+Another differences are less noticeble .
+For example , there are 60 % males with degree of master and 40 % females with this one , so the gap is only 20 % .
+If we speak about men 's dominating they lead in the category of postgraduate diploma .
+The last parts of chart , bachelor 's degree and undergraduate diploma , are more popular among women .
+While skilled vocation diploma is considered as less preferable way among them .
+In total one can say that the quantity of people , who get post-school education , are the same in comparasion with Europe .Parsing file: IELTS2015/VKovalevskaya_23_1.txt
+The chart illustrates a variety levels of post-school in Australia and shows the ammount of men and women who held them in 1999 .
+On the chart one can see that more males than femals held skilled vocational diploma .
+Only about 10 % females had it while about 90 % of males prefered to held it in 1999 .
+By compromising , the undergraduate diploma had about 70 % of females and only 35 % of males kept it .
+Accordingly , the same situation as in the proportion of skilled vocational diploma is in postgraduate diploma .
+About 70 % of males kept it .
+What about women it was about 30 % .
+Similarly situation is in the proportion of master 's degree , where about 60 % keepers of this diploma are males .
+The chart shows that keepers of skilled vocational diploma , postgraduate diploma and master 's degree are men and in other spheres the keepers are women .Parsing file: IELTS2015/VKovalevskaya_32_2.txt
+Each of us sometimes ask a question by yourself : is there limit in my freedom to express my personal beliefs and ideas ?
+I strongly believe that define limits should exist , because we all live in the same world and should respect beliefs and ideas of different groups of people .
+I understand that this is a very contradictionary question , however I have my stable personal opinion on this issue and I want to illustare it by few examples .
+First of all , we should understand , that the way , how we express our opinion should n't hert anybody .
+Government should define the limits of our freedom to expression , and I think , that this is the main goal of government .
+Of course our government should represent all points of view on all problems , which exist in our society , and for this reason government can define the limits of our expression .
+On the other hand , huge amount of people believe , that creative artists should always be given the freedom to express their own opinion , because it is art , and art have no limits , I can understand this people .Parsing file: IELTS2015/ZEvdaeva_13_1.txt
+The charts below give information about travel to and from the UK and about the most popular countries for UK residents to visit .Parsing file: IELTS2015/ZEvdaeva_13_2.txt
+In many countries , the student have different moral characteristic .
+There are a lot of kind teaching for students .
+For example , in arabic counties existe traditionall `` teaching '' when student must appreciate and respect of tradition , family , and according then in this countries good behaviour .
+The anothers countiest , for example -- USA , terrible behaviour .
+Cause this country is free and democraty for tradition .
+For my opinion first cause is family .
+It plays very important role in life everyone .
+Second cause is cociality .
+Saying tell me who are your friend so I tell you who you are .
+The truth !
+Cociality influance to person .
+So I think , the parents must paying for attention to children .
+Very important give them right knowledghes for themself future life ( in school , for example ) .
+Also the goverment must to help to spesial programmes .
+In conclusion , student behaviour is modern problem .
+Nowadays student do n't want studying .
+He prefer spend to time with computer , iphone .
+After that he is begginning too lazy .
+So student behaviour hard to control .Parsing file: IELTS2015/ZEvdaeva_28_1.txt
+The two graphs provide the information of travelling to and from the UK over a 20-year period , from 1979 to 1999 , and illustrate what countries had the most popularity among UK visitors in 1999 .
+From the first graph it can be seen that the number of overseas residents was about 10 millions and approximately 12.5 millions of the UK residents strongly jumped to 30 millions and continue grow up reaching about 53 millions in 1999 .
+At the same time the number of visits to the UK by overseas residents start to increase and got to about 28 millions in 1999 .
+From the second graph we can see most popular countries visited by UK residents in 1999 .
+On the first place is France .
+The percentage of UK visitors reached about 11 millions in 1999 .
+In contrast , the most unpopular country among British is Turkey ( approximately 2.5 millions of UK tourists ) .
+On the second place was Spain ( about 9.5 millions ) .
+Among disliked countries also were Greece and the USA .
+To sum up , during the latest 15 years of 20th century tourism wand travelling to and from the UK became develop intensively .
+But British people are more interested in travelling than residents of other countries .Parsing file: IELTS2015/ZEvdaeva_28_2.txt
+Nowadays student behaviour in schools is one of the most urgent problem of modern society in different countries .
+There can be really unexpectable .
+Many people : teachers , psychologies , doctors and parents try to understand what exactly cause severe problems with student behaviour in school .
+Now we try to depict what can be the reason of bad behaviour .
+First of all , the atmosphere in school .
+It is not a secret that because of everyday stress students feel anxiety , become nervous and have a bad mood .
+Also , school life is a very difficult period for students .
+Often they have a family problems , misunderstanding with parents , difficult relationships with classmates and so on .
